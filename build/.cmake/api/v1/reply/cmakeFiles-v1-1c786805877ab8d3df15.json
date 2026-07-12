@@ -1,0 +1,302 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "C:/\u4f5c\u4e1a_\u4ee3\u7801/*.cpp",
+			"paths" : 
+			[
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/N\u4e2a\u6570\u6c42\u548c\u5206\u6570\u7248.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/calculate24.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/cantor\u8868.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/combination.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/guessPrice.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/kingOfKaraoke.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/setstackComputer.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/square.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/temp.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u5206\u6570\u7cbe\u786e\u8fd0\u7b97.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u5343\u95ee\u7ed9\u51fa\u7684\u8303\u4f8b.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u5b6a\u751f\u7d20\u6570.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u5de5\u8d44\u8f93\u51fa.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u6c34\u4ed9\u82b1\u6570.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u6cf0\u52d2\u7ea7\u6570\u89e3cos.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u7eb8\u724c\u6e38\u620f.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u86c7\u5f62\u8f93\u51fa\u52a8\u6001\u5206\u914d.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/Cplus\u548cACM\u7ec3\u4e60/\u8d70\u8ff7\u5bab\u7c7b\u7b80\u5355\u7248.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/build/CMakeFiles/4.3.3/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/AntimedianDeletion.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/PermutationProblem.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/aNumberBetweenTwo.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/biggestSum.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/boyOrGirl.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/countingSort.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/courseWishes.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/filpTheBit.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/temp.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/code_force/theEqualizer.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/B2005\u5b57\u7b26\u4e09\u89d2\u5f62.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/B2127\u6c42\u5b8c\u5168\u6570.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/B2139\u533a\u95f4\u5185\u771f\u7d20\u6570.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/B2139\u771f\u7d20\u6570.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/B2141\u786e\u5b9a\u8fdb\u5236.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/B2165.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1002\u8fc7\u6cb3\u5352.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1007\u72ec\u6728\u6865.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1010\u5e42\u6b21\u65b9.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1011\u8f66\u7ad9.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1014cantor\u8868.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1016\u65c5\u884c\u5bb6\u7684\u9884\u7b97.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1017\u8fdb\u5236\u8f6c\u6362.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1018\u4e58\u79ef\u6700\u5927.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1030\u6c42\u5148\u5e8f\u6392\u5e8f.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1033.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1033\u81ea\u7531\u843d\u4f53.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1035\u7ea7\u6570\u6c42\u548c.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1036\u9009\u6570.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1037\u4ea7\u751f\u6570.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1042.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1047\u6821\u95e8\u5916\u7684\u6811.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1048.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1049\u88c5\u7bb1\u95ee\u9898.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1085\u4e0d\u9ad8\u5174\u7684\u6d25\u6d25.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1093\u5956\u5b66\u91d1.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P16336.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P1802.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/P5707\u4e0a\u5b66\u8fdf\u5230.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/p1028.cpp",
+				"C:/\u4f5c\u4e1a_\u4ee3\u7801/\u6d1b\u8c37\u9898\u76ee/\u56de\u6587\u6570P1015.cpp"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.3/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Linker/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Linker/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-GNU.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/\u4f5c\u4e1a_\u4ee3\u7801/build",
+		"source" : "C:/\u4f5c\u4e1a_\u4ee3\u7801"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
