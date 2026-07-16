@@ -1,9 +1,21 @@
-cmake_minimum_required(VERSION 3.14) # 推荐使用 3.14 以上以完美支持 CONFIGURE_DEPENDS
+﻿cmake_minimum_required(VERSION 3.14) # 推荐使用 3.14 以上以完美支持 CONFIGURE_DEPENDS
 project(CodingExercises C CXX)
 
 # 设置 C++17 标准
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# ==================== 【新增：解决中文乱码问题】 ====================
+# 强制编译器（MSVC 或 GCC/Clang）统一使用 UTF-8 编码处理源文件和输出的可执行文件
+if(MSVC)
+    # 给 MSVC 编译器添加 /utf-8 选项
+    add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")
+    add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
+else()
+    # 给 GCC/Clang 编译器指定输入和输出字符集为 UTF-8
+    add_compile_options(-finput-charset=UTF-8 -fexec-charset=UTF-8)
+endif()
+# ====================================================================
 
 # 启用 compile_commands.json（用于 clangd 等代码提示工具）
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
