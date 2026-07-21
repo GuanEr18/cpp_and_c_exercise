@@ -1,368 +1,404 @@
 [
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_05c90fd0.dir\\Cplus和ACM练习\\N个数求和分数版.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\N个数求和分数版.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/N个数求和分数版.cpp",
-  "output": "CMakeFiles/exe_05c90fd0.dir/Cplus和ACM练习/N个数求和分数版.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_14089fda.dir\\Cplus和ACMExerxise\\N个数求和分数版.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\N个数求和分数版.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/N个数求和分数版.cpp",
+  "output": "CMakeFiles/exe_14089fda.dir/Cplus和ACMExerxise/N个数求和分数版.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_821434b5.dir\\Cplus和ACM练习\\calculate24.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\calculate24.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/calculate24.cpp",
-  "output": "CMakeFiles/exe_821434b5.dir/Cplus和ACM练习/calculate24.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_f13d72d7.dir\\Cplus和ACMExerxise\\calculate24.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\calculate24.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/calculate24.cpp",
+  "output": "CMakeFiles/exe_f13d72d7.dir/Cplus和ACMExerxise/calculate24.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_5f4258ad.dir\\Cplus和ACM练习\\cantor表.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\cantor表.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/cantor表.cpp",
-  "output": "CMakeFiles/exe_5f4258ad.dir/Cplus和ACM练习/cantor表.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_62ef5c05.dir\\Cplus和ACMExerxise\\cantor表.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\cantor表.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/cantor表.cpp",
+  "output": "CMakeFiles/exe_62ef5c05.dir/Cplus和ACMExerxise/cantor表.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_a27f7ac5.dir\\Cplus和ACM练习\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
-  "output": "CMakeFiles/exe_a27f7ac5.dir/Cplus和ACM练习/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_36cc0ba1.dir\\Cplus和ACMExerxise\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "output": "CMakeFiles/exe_36cc0ba1.dir/Cplus和ACMExerxise/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_ac7eb9b3.dir\\Cplus和ACM练习\\combination.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\combination.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/combination.cpp",
-  "output": "CMakeFiles/exe_ac7eb9b3.dir/Cplus和ACM练习/combination.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_3f85d051.dir\\Cplus和ACMExerxise\\combination.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\combination.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/combination.cpp",
+  "output": "CMakeFiles/exe_3f85d051.dir/Cplus和ACMExerxise/combination.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_116e81c2.dir\\Cplus和ACM练习\\guessPrice.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\guessPrice.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/guessPrice.cpp",
-  "output": "CMakeFiles/exe_116e81c2.dir/Cplus和ACM练习/guessPrice.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_d1d58bcf.dir\\Cplus和ACMExerxise\\guessPrice.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\guessPrice.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/guessPrice.cpp",
+  "output": "CMakeFiles/exe_d1d58bcf.dir/Cplus和ACMExerxise/guessPrice.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_d2023aa3.dir\\Cplus和ACM练习\\kingOfKaraoke.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\kingOfKaraoke.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/kingOfKaraoke.cpp",
-  "output": "CMakeFiles/exe_d2023aa3.dir/Cplus和ACM练习/kingOfKaraoke.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_28fe7159.dir\\Cplus和ACMExerxise\\kingOfKaraoke.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\kingOfKaraoke.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/kingOfKaraoke.cpp",
+  "output": "CMakeFiles/exe_28fe7159.dir/Cplus和ACMExerxise/kingOfKaraoke.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_287a1c05.dir\\Cplus和ACM练习\\setstackComputer.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\setstackComputer.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/setstackComputer.cpp",
-  "output": "CMakeFiles/exe_287a1c05.dir/Cplus和ACM练习/setstackComputer.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_31cf86a2.dir\\Cplus和ACMExerxise\\setstackComputer.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\setstackComputer.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/setstackComputer.cpp",
+  "output": "CMakeFiles/exe_31cf86a2.dir/Cplus和ACMExerxise/setstackComputer.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_6fa724e8.dir\\Cplus和ACM练习\\square.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\square.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/square.cpp",
-  "output": "CMakeFiles/exe_6fa724e8.dir/Cplus和ACM练习/square.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_d0b48535.dir\\Cplus和ACMExerxise\\square.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\square.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/square.cpp",
+  "output": "CMakeFiles/exe_d0b48535.dir/Cplus和ACMExerxise/square.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_8bdb1065.dir\\Cplus和ACM练习\\temp.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\temp.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/temp.cpp",
-  "output": "CMakeFiles/exe_8bdb1065.dir/Cplus和ACM练习/temp.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_d6c30610.dir\\Cplus和ACMExerxise\\temp.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\temp.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/temp.cpp",
+  "output": "CMakeFiles/exe_d6c30610.dir/Cplus和ACMExerxise/temp.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_38fe9403.dir\\Cplus和ACM练习\\分数精确运算.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\分数精确运算.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/分数精确运算.cpp",
-  "output": "CMakeFiles/exe_38fe9403.dir/Cplus和ACM练习/分数精确运算.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_5cd74c78.dir\\Cplus和ACMExerxise\\分数精确运算.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\分数精确运算.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/分数精确运算.cpp",
+  "output": "CMakeFiles/exe_5cd74c78.dir/Cplus和ACMExerxise/分数精确运算.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_5f751d4f.dir\\Cplus和ACM练习\\千问给出的范例.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\千问给出的范例.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/千问给出的范例.cpp",
-  "output": "CMakeFiles/exe_5f751d4f.dir/Cplus和ACM练习/千问给出的范例.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_cd1f7aee.dir\\Cplus和ACMExerxise\\千问给出的范例.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\千问给出的范例.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/千问给出的范例.cpp",
+  "output": "CMakeFiles/exe_cd1f7aee.dir/Cplus和ACMExerxise/千问给出的范例.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_ae25495c.dir\\Cplus和ACM练习\\孪生素数.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\孪生素数.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/孪生素数.cpp",
-  "output": "CMakeFiles/exe_ae25495c.dir/Cplus和ACM练习/孪生素数.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_0a2ea769.dir\\Cplus和ACMExerxise\\孪生素数.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\孪生素数.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/孪生素数.cpp",
+  "output": "CMakeFiles/exe_0a2ea769.dir/Cplus和ACMExerxise/孪生素数.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_6a69eca2.dir\\Cplus和ACM练习\\工资输出.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\工资输出.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/工资输出.cpp",
-  "output": "CMakeFiles/exe_6a69eca2.dir/Cplus和ACM练习/工资输出.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_62473bfb.dir\\Cplus和ACMExerxise\\工资输出.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\工资输出.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/工资输出.cpp",
+  "output": "CMakeFiles/exe_62473bfb.dir/Cplus和ACMExerxise/工资输出.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_7dc8e262.dir\\Cplus和ACM练习\\水仙花数.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\水仙花数.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/水仙花数.cpp",
-  "output": "CMakeFiles/exe_7dc8e262.dir/Cplus和ACM练习/水仙花数.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_21bf6b22.dir\\Cplus和ACMExerxise\\水仙花数.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\水仙花数.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/水仙花数.cpp",
+  "output": "CMakeFiles/exe_21bf6b22.dir/Cplus和ACMExerxise/水仙花数.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_dc8882d7.dir\\Cplus和ACM练习\\泰勒级数解cos.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\泰勒级数解cos.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/泰勒级数解cos.cpp",
-  "output": "CMakeFiles/exe_dc8882d7.dir/Cplus和ACM练习/泰勒级数解cos.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_936c2979.dir\\Cplus和ACMExerxise\\泰勒级数解cos.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\泰勒级数解cos.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/泰勒级数解cos.cpp",
+  "output": "CMakeFiles/exe_936c2979.dir/Cplus和ACMExerxise/泰勒级数解cos.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_9d66e81d.dir\\Cplus和ACM练习\\纸牌游戏.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\纸牌游戏.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/纸牌游戏.cpp",
-  "output": "CMakeFiles/exe_9d66e81d.dir/Cplus和ACM练习/纸牌游戏.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_79468ae6.dir\\Cplus和ACMExerxise\\纸牌游戏.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\纸牌游戏.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/纸牌游戏.cpp",
+  "output": "CMakeFiles/exe_79468ae6.dir/Cplus和ACMExerxise/纸牌游戏.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_c0c7fd2c.dir\\Cplus和ACM练习\\蛇形输出动态分配.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\蛇形输出动态分配.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/蛇形输出动态分配.cpp",
-  "output": "CMakeFiles/exe_c0c7fd2c.dir/Cplus和ACM练习/蛇形输出动态分配.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_e63dc485.dir\\Cplus和ACMExerxise\\蛇形输出动态分配.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\蛇形输出动态分配.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/蛇形输出动态分配.cpp",
+  "output": "CMakeFiles/exe_e63dc485.dir/Cplus和ACMExerxise/蛇形输出动态分配.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_53b80e26.dir\\Cplus和ACM练习\\走迷宫类简单版.cpp.obj -c C:\\作业_代码\\Cplus和ACM练习\\走迷宫类简单版.cpp",
-  "file": "C:/作业_代码/Cplus和ACM练习/走迷宫类简单版.cpp",
-  "output": "CMakeFiles/exe_53b80e26.dir/Cplus和ACM练习/走迷宫类简单版.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_2ba09421.dir\\Cplus和ACMExerxise\\走迷宫类简单版.cpp.obj -c C:\\exerciseCode\\Cplus和ACMExerxise\\走迷宫类简单版.cpp",
+  "file": "C:/exerciseCode/Cplus和ACMExerxise/走迷宫类简单版.cpp",
+  "output": "CMakeFiles/exe_2ba09421.dir/Cplus和ACMExerxise/走迷宫类简单版.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_b22c97f8.dir\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp.obj -c C:\\作业_代码\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
-  "file": "C:/作业_代码/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
-  "output": "CMakeFiles/exe_b22c97f8.dir/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_d9c833b5.dir\\LuoGuProblem\\B2005.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B2005.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B2005.cpp",
+  "output": "CMakeFiles/exe_d9c833b5.dir/LuoGuProblem/B2005.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_06c74e4f.dir\\code_force\\AntimedianDeletion.cpp.obj -c C:\\作业_代码\\code_force\\AntimedianDeletion.cpp",
-  "file": "C:/作业_代码/code_force/AntimedianDeletion.cpp",
-  "output": "CMakeFiles/exe_06c74e4f.dir/code_force/AntimedianDeletion.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_cf002458.dir\\LuoGuProblem\\B2087.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B2087.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B2087.cpp",
+  "output": "CMakeFiles/exe_cf002458.dir/LuoGuProblem/B2087.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_3dc22532.dir\\code_force\\PermutationProblem.cpp.obj -c C:\\作业_代码\\code_force\\PermutationProblem.cpp",
-  "file": "C:/作业_代码/code_force/PermutationProblem.cpp",
-  "output": "CMakeFiles/exe_3dc22532.dir/code_force/PermutationProblem.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_ba40afb9.dir\\LuoGuProblem\\B2127.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B2127.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B2127.cpp",
+  "output": "CMakeFiles/exe_ba40afb9.dir/LuoGuProblem/B2127.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_973dbeb4.dir\\code_force\\aNumberBetweenTwo.cpp.obj -c C:\\作业_代码\\code_force\\aNumberBetweenTwo.cpp",
-  "file": "C:/作业_代码/code_force/aNumberBetweenTwo.cpp",
-  "output": "CMakeFiles/exe_973dbeb4.dir/code_force/aNumberBetweenTwo.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_72239518.dir\\LuoGuProblem\\B2139_(2).cpp.obj -c \"C:\\exerciseCode\\LuoGuProblem\\B2139 (2).cpp\"",
+  "file": "C:/exerciseCode/LuoGuProblem/B2139 (2).cpp",
+  "output": "CMakeFiles/exe_72239518.dir/LuoGuProblem/B2139_(2).cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_9ddb1858.dir\\code_force\\biggestSum.cpp.obj -c C:\\作业_代码\\code_force\\biggestSum.cpp",
-  "file": "C:/作业_代码/code_force/biggestSum.cpp",
-  "output": "CMakeFiles/exe_9ddb1858.dir/code_force/biggestSum.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_c6255b1f.dir\\LuoGuProblem\\B2139.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B2139.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B2139.cpp",
+  "output": "CMakeFiles/exe_c6255b1f.dir/LuoGuProblem/B2139.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_b97981ab.dir\\code_force\\boyOrGirl.cpp.obj -c C:\\作业_代码\\code_force\\boyOrGirl.cpp",
-  "file": "C:/作业_代码/code_force/boyOrGirl.cpp",
-  "output": "CMakeFiles/exe_b97981ab.dir/code_force/boyOrGirl.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_95ebcc19.dir\\LuoGuProblem\\B2141.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B2141.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B2141.cpp",
+  "output": "CMakeFiles/exe_95ebcc19.dir/LuoGuProblem/B2141.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_15460193.dir\\code_force\\countingSort.cpp.obj -c C:\\作业_代码\\code_force\\countingSort.cpp",
-  "file": "C:/作业_代码/code_force/countingSort.cpp",
-  "output": "CMakeFiles/exe_15460193.dir/code_force/countingSort.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_04d1f163.dir\\LuoGuProblem\\B2165.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B2165.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B2165.cpp",
+  "output": "CMakeFiles/exe_04d1f163.dir/LuoGuProblem/B2165.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_d2b1b77a.dir\\code_force\\courseWishes.cpp.obj -c C:\\作业_代码\\code_force\\courseWishes.cpp",
-  "file": "C:/作业_代码/code_force/courseWishes.cpp",
-  "output": "CMakeFiles/exe_d2b1b77a.dir/code_force/courseWishes.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_b1c6ab8c.dir\\LuoGuProblem\\B3690.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B3690.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B3690.cpp",
+  "output": "CMakeFiles/exe_b1c6ab8c.dir/LuoGuProblem/B3690.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_57bc2964.dir\\code_force\\filpTheBit.cpp.obj -c C:\\作业_代码\\code_force\\filpTheBit.cpp",
-  "file": "C:/作业_代码/code_force/filpTheBit.cpp",
-  "output": "CMakeFiles/exe_57bc2964.dir/code_force/filpTheBit.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_c00d58b4.dir\\LuoGuProblem\\B4548.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\B4548.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/B4548.cpp",
+  "output": "CMakeFiles/exe_c00d58b4.dir/LuoGuProblem/B4548.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_1a45c169.dir\\code_force\\temp.cpp.obj -c C:\\作业_代码\\code_force\\temp.cpp",
-  "file": "C:/作业_代码/code_force/temp.cpp",
-  "output": "CMakeFiles/exe_1a45c169.dir/code_force/temp.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_902c0659.dir\\LuoGuProblem\\P1002.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1002.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1002.cpp",
+  "output": "CMakeFiles/exe_902c0659.dir/LuoGuProblem/P1002.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_d3a55f02.dir\\code_force\\theEqualizer.cpp.obj -c C:\\作业_代码\\code_force\\theEqualizer.cpp",
-  "file": "C:/作业_代码/code_force/theEqualizer.cpp",
-  "output": "CMakeFiles/exe_d3a55f02.dir/code_force/theEqualizer.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_1d4bb00b.dir\\LuoGuProblem\\P1007.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1007.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1007.cpp",
+  "output": "CMakeFiles/exe_1d4bb00b.dir/LuoGuProblem/P1007.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_c79c8da8.dir\\洛谷题目\\B2005字符三角形.cpp.obj -c C:\\作业_代码\\洛谷题目\\B2005字符三角形.cpp",
-  "file": "C:/作业_代码/洛谷题目/B2005字符三角形.cpp",
-  "output": "CMakeFiles/exe_c79c8da8.dir/洛谷题目/B2005字符三角形.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_449e86ca.dir\\LuoGuProblem\\P1010.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1010.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1010.cpp",
+  "output": "CMakeFiles/exe_449e86ca.dir/LuoGuProblem/P1010.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_24356420.dir\\洛谷题目\\B2127求完全数.cpp.obj -c C:\\作业_代码\\洛谷题目\\B2127求完全数.cpp",
-  "file": "C:/作业_代码/洛谷题目/B2127求完全数.cpp",
-  "output": "CMakeFiles/exe_24356420.dir/洛谷题目/B2127求完全数.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_4594707e.dir\\LuoGuProblem\\P1011.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1011.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1011.cpp",
+  "output": "CMakeFiles/exe_4594707e.dir/LuoGuProblem/P1011.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_b381f377.dir\\洛谷题目\\B2139区间内真素数.cpp.obj -c C:\\作业_代码\\洛谷题目\\B2139区间内真素数.cpp",
-  "file": "C:/作业_代码/洛谷题目/B2139区间内真素数.cpp",
-  "output": "CMakeFiles/exe_b381f377.dir/洛谷题目/B2139区间内真素数.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_8d620f21.dir\\LuoGuProblem\\P1014.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1014.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1014.cpp",
+  "output": "CMakeFiles/exe_8d620f21.dir/LuoGuProblem/P1014.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_632b157c.dir\\洛谷题目\\B2139真素数.cpp.obj -c C:\\作业_代码\\洛谷题目\\B2139真素数.cpp",
-  "file": "C:/作业_代码/洛谷题目/B2139真素数.cpp",
-  "output": "CMakeFiles/exe_632b157c.dir/洛谷题目/B2139真素数.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_3c5f8163.dir\\LuoGuProblem\\P1015.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1015.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1015.cpp",
+  "output": "CMakeFiles/exe_3c5f8163.dir/LuoGuProblem/P1015.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_571751b3.dir\\洛谷题目\\B2141确定进制.cpp.obj -c C:\\作业_代码\\洛谷题目\\B2141确定进制.cpp",
-  "file": "C:/作业_代码/洛谷题目/B2141确定进制.cpp",
-  "output": "CMakeFiles/exe_571751b3.dir/洛谷题目/B2141确定进制.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_6df94e69.dir\\LuoGuProblem\\P1016.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1016.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1016.cpp",
+  "output": "CMakeFiles/exe_6df94e69.dir/LuoGuProblem/P1016.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_bede58d7.dir\\洛谷题目\\B2165.cpp.obj -c C:\\作业_代码\\洛谷题目\\B2165.cpp",
-  "file": "C:/作业_代码/洛谷题目/B2165.cpp",
-  "output": "CMakeFiles/exe_bede58d7.dir/洛谷题目/B2165.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_a4fba351.dir\\LuoGuProblem\\P1017.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1017.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1017.cpp",
+  "output": "CMakeFiles/exe_a4fba351.dir/LuoGuProblem/P1017.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_2f01c357.dir\\洛谷题目\\P1002过河卒.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1002过河卒.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1002过河卒.cpp",
-  "output": "CMakeFiles/exe_2f01c357.dir/洛谷题目/P1002过河卒.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_bf733520.dir\\LuoGuProblem\\P1018.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1018.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1018.cpp",
+  "output": "CMakeFiles/exe_bf733520.dir/LuoGuProblem/P1018.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_824ef8f0.dir\\洛谷题目\\P1007独木桥.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1007独木桥.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1007独木桥.cpp",
-  "output": "CMakeFiles/exe_824ef8f0.dir/洛谷题目/P1007独木桥.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_12025d1c.dir\\LuoGuProblem\\P1030.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1030.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1030.cpp",
+  "output": "CMakeFiles/exe_12025d1c.dir/LuoGuProblem/P1030.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_dcb05aab.dir\\洛谷题目\\P1010幂次方.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1010幂次方.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1010幂次方.cpp",
-  "output": "CMakeFiles/exe_dcb05aab.dir/洛谷题目/P1010幂次方.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_69114f45.dir\\LuoGuProblem\\P1033.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1033.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1033.cpp",
+  "output": "CMakeFiles/exe_69114f45.dir/LuoGuProblem/P1033.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_05df2b33.dir\\洛谷题目\\P1011车站.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1011车站.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1011车站.cpp",
-  "output": "CMakeFiles/exe_05df2b33.dir/洛谷题目/P1011车站.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_72e2e3c3.dir\\LuoGuProblem\\P1034.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1034.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1034.cpp",
+  "output": "CMakeFiles/exe_72e2e3c3.dir/LuoGuProblem/P1034.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_cbe6d82b.dir\\洛谷题目\\P1014cantor表.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1014cantor表.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1014cantor表.cpp",
-  "output": "CMakeFiles/exe_cbe6d82b.dir/洛谷题目/P1014cantor表.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_6760cd48.dir\\LuoGuProblem\\P1035.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1035.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1035.cpp",
+  "output": "CMakeFiles/exe_6760cd48.dir/LuoGuProblem/P1035.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_c38fe04a.dir\\洛谷题目\\P1016旅行家的预算.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1016旅行家的预算.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1016旅行家的预算.cpp",
-  "output": "CMakeFiles/exe_c38fe04a.dir/洛谷题目/P1016旅行家的预算.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_7f1cd12c.dir\\LuoGuProblem\\P1036.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1036.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1036.cpp",
+  "output": "CMakeFiles/exe_7f1cd12c.dir/LuoGuProblem/P1036.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_d4e3ba21.dir\\洛谷题目\\P1017进制转换.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1017进制转换.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1017进制转换.cpp",
-  "output": "CMakeFiles/exe_d4e3ba21.dir/洛谷题目/P1017进制转换.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_07bbf925.dir\\LuoGuProblem\\P1037.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1037.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1037.cpp",
+  "output": "CMakeFiles/exe_07bbf925.dir/LuoGuProblem/P1037.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_e9970e97.dir\\洛谷题目\\P1018乘积最大.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1018乘积最大.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1018乘积最大.cpp",
-  "output": "CMakeFiles/exe_e9970e97.dir/洛谷题目/P1018乘积最大.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_cd837d30.dir\\LuoGuProblem\\P1042.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1042.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1042.cpp",
+  "output": "CMakeFiles/exe_cd837d30.dir/LuoGuProblem/P1042.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_27824e90.dir\\洛谷题目\\P1030求先序排序.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1030求先序排序.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1030求先序排序.cpp",
-  "output": "CMakeFiles/exe_27824e90.dir/洛谷题目/P1030求先序排序.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_1aeb0b90.dir\\LuoGuProblem\\P1047.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1047.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1047.cpp",
+  "output": "CMakeFiles/exe_1aeb0b90.dir/LuoGuProblem/P1047.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_c66e6a40.dir\\洛谷题目\\P1033.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1033.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1033.cpp",
-  "output": "CMakeFiles/exe_c66e6a40.dir/洛谷题目/P1033.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_c4ab13af.dir\\LuoGuProblem\\P1048.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1048.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1048.cpp",
+  "output": "CMakeFiles/exe_c4ab13af.dir/LuoGuProblem/P1048.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_3cc44a52.dir\\洛谷题目\\P1033自由落体.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1033自由落体.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1033自由落体.cpp",
-  "output": "CMakeFiles/exe_3cc44a52.dir/洛谷题目/P1033自由落体.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_bafe9202.dir\\LuoGuProblem\\P1049.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1049.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1049.cpp",
+  "output": "CMakeFiles/exe_bafe9202.dir/LuoGuProblem/P1049.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_6a1113b6.dir\\洛谷题目\\P1035级数求和.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1035级数求和.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1035级数求和.cpp",
-  "output": "CMakeFiles/exe_6a1113b6.dir/洛谷题目/P1035级数求和.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_de3de304.dir\\LuoGuProblem\\P1085.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1085.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1085.cpp",
+  "output": "CMakeFiles/exe_de3de304.dir/LuoGuProblem/P1085.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_399a280f.dir\\洛谷题目\\P1036选数.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1036选数.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1036选数.cpp",
-  "output": "CMakeFiles/exe_399a280f.dir/洛谷题目/P1036选数.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_b0bc409e.dir\\LuoGuProblem\\P1093.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1093.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1093.cpp",
+  "output": "CMakeFiles/exe_b0bc409e.dir/LuoGuProblem/P1093.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_fce69253.dir\\洛谷题目\\P1037产生数.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1037产生数.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1037产生数.cpp",
-  "output": "CMakeFiles/exe_fce69253.dir/洛谷题目/P1037产生数.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_61ef260b.dir\\LuoGuProblem\\P16208.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P16208.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P16208.cpp",
+  "output": "CMakeFiles/exe_61ef260b.dir/LuoGuProblem/P16208.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_50af8cfa.dir\\洛谷题目\\P1042.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1042.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1042.cpp",
-  "output": "CMakeFiles/exe_50af8cfa.dir/洛谷题目/P1042.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_d5a505d4.dir\\LuoGuProblem\\P16336.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P16336.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P16336.cpp",
+  "output": "CMakeFiles/exe_d5a505d4.dir/LuoGuProblem/P16336.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_d4e96799.dir\\洛谷题目\\P1047校门外的树.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1047校门外的树.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1047校门外的树.cpp",
-  "output": "CMakeFiles/exe_d4e96799.dir/洛谷题目/P1047校门外的树.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_0874ca58.dir\\LuoGuProblem\\P17088.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P17088.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P17088.cpp",
+  "output": "CMakeFiles/exe_0874ca58.dir/LuoGuProblem/P17088.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_00a4fd46.dir\\洛谷题目\\P1048.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1048.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1048.cpp",
-  "output": "CMakeFiles/exe_00a4fd46.dir/洛谷题目/P1048.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_29e927f4.dir\\LuoGuProblem\\P1802.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1802.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1802.cpp",
+  "output": "CMakeFiles/exe_29e927f4.dir/LuoGuProblem/P1802.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_8aaf6f4c.dir\\洛谷题目\\P1049装箱问题.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1049装箱问题.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1049装箱问题.cpp",
-  "output": "CMakeFiles/exe_8aaf6f4c.dir/洛谷题目/P1049装箱问题.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_c3ebea90.dir\\LuoGuProblem\\P2525.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P2525.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P2525.cpp",
+  "output": "CMakeFiles/exe_c3ebea90.dir/LuoGuProblem/P2525.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_79aa6527.dir\\洛谷题目\\P1085不高兴的津津.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1085不高兴的津津.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1085不高兴的津津.cpp",
-  "output": "CMakeFiles/exe_79aa6527.dir/洛谷题目/P1085不高兴的津津.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_a4294ed4.dir\\LuoGuProblem\\P5707.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P5707.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P5707.cpp",
+  "output": "CMakeFiles/exe_a4294ed4.dir/LuoGuProblem/P5707.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_0da420de.dir\\洛谷题目\\P1093奖学金.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1093奖学金.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1093奖学金.cpp",
-  "output": "CMakeFiles/exe_0da420de.dir/洛谷题目/P1093奖学金.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_2f2fde27.dir\\LuoGuProblem\\p1028.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\p1028.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/p1028.cpp",
+  "output": "CMakeFiles/exe_2f2fde27.dir/LuoGuProblem/p1028.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_470544d9.dir\\洛谷题目\\P16336.cpp.obj -c C:\\作业_代码\\洛谷题目\\P16336.cpp",
-  "file": "C:/作业_代码/洛谷题目/P16336.cpp",
-  "output": "CMakeFiles/exe_470544d9.dir/洛谷题目/P16336.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_91e7807c.dir\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp.obj -c C:\\exerciseCode\\cmake-build-debug\\CMakeFiles\\4.1.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
+  "file": "C:/exerciseCode/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "output": "CMakeFiles/exe_91e7807c.dir/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_90ba0dbd.dir\\洛谷题目\\P1802.cpp.obj -c C:\\作业_代码\\洛谷题目\\P1802.cpp",
-  "file": "C:/作业_代码/洛谷题目/P1802.cpp",
-  "output": "CMakeFiles/exe_90ba0dbd.dir/洛谷题目/P1802.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_2759e041.dir\\code_force\\AntimedianDeletion.cpp.obj -c C:\\exerciseCode\\code_force\\AntimedianDeletion.cpp",
+  "file": "C:/exerciseCode/code_force/AntimedianDeletion.cpp",
+  "output": "CMakeFiles/exe_2759e041.dir/code_force/AntimedianDeletion.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_d313dfe7.dir\\洛谷题目\\P5707上学迟到.cpp.obj -c C:\\作业_代码\\洛谷题目\\P5707上学迟到.cpp",
-  "file": "C:/作业_代码/洛谷题目/P5707上学迟到.cpp",
-  "output": "CMakeFiles/exe_d313dfe7.dir/洛谷题目/P5707上学迟到.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_5c379b5d.dir\\code_force\\PermutationProblem.cpp.obj -c C:\\exerciseCode\\code_force\\PermutationProblem.cpp",
+  "file": "C:/exerciseCode/code_force/PermutationProblem.cpp",
+  "output": "CMakeFiles/exe_5c379b5d.dir/code_force/PermutationProblem.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_6590a821.dir\\洛谷题目\\p1028.cpp.obj -c C:\\作业_代码\\洛谷题目\\p1028.cpp",
-  "file": "C:/作业_代码/洛谷题目/p1028.cpp",
-  "output": "CMakeFiles/exe_6590a821.dir/洛谷题目/p1028.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_9e028e11.dir\\code_force\\aNumberBetweenTwo.cpp.obj -c C:\\exerciseCode\\code_force\\aNumberBetweenTwo.cpp",
+  "file": "C:/exerciseCode/code_force/aNumberBetweenTwo.cpp",
+  "output": "CMakeFiles/exe_9e028e11.dir/code_force/aNumberBetweenTwo.cpp.obj"
 },
 {
-  "directory": "C:/作业_代码/build",
-  "command": "c:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\exe_2f1dfcd2.dir\\洛谷题目\\回文数P1015.cpp.obj -c C:\\作业_代码\\洛谷题目\\回文数P1015.cpp",
-  "file": "C:/作业_代码/洛谷题目/回文数P1015.cpp",
-  "output": "CMakeFiles/exe_2f1dfcd2.dir/洛谷题目/回文数P1015.cpp.obj"
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_752d3138.dir\\code_force\\biggestSum.cpp.obj -c C:\\exerciseCode\\code_force\\biggestSum.cpp",
+  "file": "C:/exerciseCode/code_force/biggestSum.cpp",
+  "output": "CMakeFiles/exe_752d3138.dir/code_force/biggestSum.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_0cd42262.dir\\code_force\\boyOrGirl.cpp.obj -c C:\\exerciseCode\\code_force\\boyOrGirl.cpp",
+  "file": "C:/exerciseCode/code_force/boyOrGirl.cpp",
+  "output": "CMakeFiles/exe_0cd42262.dir/code_force/boyOrGirl.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_9f03d9fb.dir\\code_force\\countingSort.cpp.obj -c C:\\exerciseCode\\code_force\\countingSort.cpp",
+  "file": "C:/exerciseCode/code_force/countingSort.cpp",
+  "output": "CMakeFiles/exe_9f03d9fb.dir/code_force/countingSort.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_19299d26.dir\\code_force\\courseWishes.cpp.obj -c C:\\exerciseCode\\code_force\\courseWishes.cpp",
+  "file": "C:/exerciseCode/code_force/courseWishes.cpp",
+  "output": "CMakeFiles/exe_19299d26.dir/code_force/courseWishes.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_e682b855.dir\\code_force\\filpTheBit.cpp.obj -c C:\\exerciseCode\\code_force\\filpTheBit.cpp",
+  "file": "C:/exerciseCode/code_force/filpTheBit.cpp",
+  "output": "CMakeFiles/exe_e682b855.dir/code_force/filpTheBit.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_4031fa36.dir\\code_force\\temp.cpp.obj -c C:\\exerciseCode\\code_force\\temp.cpp",
+  "file": "C:/exerciseCode/code_force/temp.cpp",
+  "output": "CMakeFiles/exe_4031fa36.dir/code_force/temp.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_96cf3e31.dir\\code_force\\theEqualizer.cpp.obj -c C:\\exerciseCode\\code_force\\theEqualizer.cpp",
+  "file": "C:/exerciseCode/code_force/theEqualizer.cpp",
+  "output": "CMakeFiles/exe_96cf3e31.dir/code_force/theEqualizer.cpp.obj"
 }
 ]
