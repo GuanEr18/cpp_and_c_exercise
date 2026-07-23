@@ -1,2 +1,12 @@
 cmake-build-debug/
 *.exe
+# 忽略 CMake 自动生成的构建目录
+cmake-build-*/
+build/
+
+# 忽略常见的编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.class

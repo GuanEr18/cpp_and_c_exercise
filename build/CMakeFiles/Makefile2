@@ -110,11 +110,21 @@ all: CMakeFiles/exe_1aeb0b90.dir/all
 all: CMakeFiles/exe_c4ab13af.dir/all
 all: CMakeFiles/exe_bafe9202.dir/all
 all: CMakeFiles/exe_de3de304.dir/all
+all: CMakeFiles/exe_7b296b75.dir/all
 all: CMakeFiles/exe_b0bc409e.dir/all
+all: CMakeFiles/exe_54712fca.dir/all
+all: CMakeFiles/exe_c816cce7.dir/all
+all: CMakeFiles/exe_666b74e5.dir/all
+all: CMakeFiles/exe_fe269985.dir/all
+all: CMakeFiles/exe_638bc430.dir/all
+all: CMakeFiles/exe_b18f4bc2.dir/all
+all: CMakeFiles/exe_950b989f.dir/all
+all: CMakeFiles/exe_3d1ab674.dir/all
 all: CMakeFiles/exe_61ef260b.dir/all
 all: CMakeFiles/exe_d5a505d4.dir/all
 all: CMakeFiles/exe_0874ca58.dir/all
 all: CMakeFiles/exe_29e927f4.dir/all
+all: CMakeFiles/exe_e2fbb952.dir/all
 all: CMakeFiles/exe_c3ebea90.dir/all
 all: CMakeFiles/exe_a4294ed4.dir/all
 all: CMakeFiles/exe_2f2fde27.dir/all
@@ -180,11 +190,21 @@ codegen: CMakeFiles/exe_1aeb0b90.dir/codegen
 codegen: CMakeFiles/exe_c4ab13af.dir/codegen
 codegen: CMakeFiles/exe_bafe9202.dir/codegen
 codegen: CMakeFiles/exe_de3de304.dir/codegen
+codegen: CMakeFiles/exe_7b296b75.dir/codegen
 codegen: CMakeFiles/exe_b0bc409e.dir/codegen
+codegen: CMakeFiles/exe_54712fca.dir/codegen
+codegen: CMakeFiles/exe_c816cce7.dir/codegen
+codegen: CMakeFiles/exe_666b74e5.dir/codegen
+codegen: CMakeFiles/exe_fe269985.dir/codegen
+codegen: CMakeFiles/exe_638bc430.dir/codegen
+codegen: CMakeFiles/exe_b18f4bc2.dir/codegen
+codegen: CMakeFiles/exe_950b989f.dir/codegen
+codegen: CMakeFiles/exe_3d1ab674.dir/codegen
 codegen: CMakeFiles/exe_61ef260b.dir/codegen
 codegen: CMakeFiles/exe_d5a505d4.dir/codegen
 codegen: CMakeFiles/exe_0874ca58.dir/codegen
 codegen: CMakeFiles/exe_29e927f4.dir/codegen
+codegen: CMakeFiles/exe_e2fbb952.dir/codegen
 codegen: CMakeFiles/exe_c3ebea90.dir/codegen
 codegen: CMakeFiles/exe_a4294ed4.dir/codegen
 codegen: CMakeFiles/exe_2f2fde27.dir/codegen
@@ -254,11 +274,21 @@ clean: CMakeFiles/exe_1aeb0b90.dir/clean
 clean: CMakeFiles/exe_c4ab13af.dir/clean
 clean: CMakeFiles/exe_bafe9202.dir/clean
 clean: CMakeFiles/exe_de3de304.dir/clean
+clean: CMakeFiles/exe_7b296b75.dir/clean
 clean: CMakeFiles/exe_b0bc409e.dir/clean
+clean: CMakeFiles/exe_54712fca.dir/clean
+clean: CMakeFiles/exe_c816cce7.dir/clean
+clean: CMakeFiles/exe_666b74e5.dir/clean
+clean: CMakeFiles/exe_fe269985.dir/clean
+clean: CMakeFiles/exe_638bc430.dir/clean
+clean: CMakeFiles/exe_b18f4bc2.dir/clean
+clean: CMakeFiles/exe_950b989f.dir/clean
+clean: CMakeFiles/exe_3d1ab674.dir/clean
 clean: CMakeFiles/exe_61ef260b.dir/clean
 clean: CMakeFiles/exe_d5a505d4.dir/clean
 clean: CMakeFiles/exe_0874ca58.dir/clean
 clean: CMakeFiles/exe_29e927f4.dir/clean
+clean: CMakeFiles/exe_e2fbb952.dir/clean
 clean: CMakeFiles/exe_c3ebea90.dir/clean
 clean: CMakeFiles/exe_a4294ed4.dir/clean
 clean: CMakeFiles/exe_2f2fde27.dir/clean
@@ -282,7 +312,7 @@ clean: CMakeFiles/exe_96cf3e31.dir/clean
 CMakeFiles/exe_14089fda.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_14089fda.dir\build.make CMakeFiles/exe_14089fda.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_14089fda.dir\build.make CMakeFiles/exe_14089fda.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=9,10 "Built target exe_14089fda"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=8,9 "Built target exe_14089fda"
 .PHONY : CMakeFiles/exe_14089fda.dir/all
 
 # Build rule for subdir invocation for target.
@@ -299,7 +329,7 @@ exe_14089fda: CMakeFiles/exe_14089fda.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_14089fda.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_14089fda.dir\build.make CMakeFiles/exe_14089fda.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=9,10 "Finished codegen for target exe_14089fda"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=8,9 "Finished codegen for target exe_14089fda"
 .PHONY : CMakeFiles/exe_14089fda.dir/codegen
 
 # clean rule for target.
@@ -314,12 +344,12 @@ CMakeFiles/exe_14089fda.dir/clean:
 CMakeFiles/exe_f13d72d7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_f13d72d7.dir\build.make CMakeFiles/exe_f13d72d7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_f13d72d7.dir\build.make CMakeFiles/exe_f13d72d7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=99,100 "Built target exe_f13d72d7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=98 "Built target exe_f13d72d7"
 .PHONY : CMakeFiles/exe_f13d72d7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_f13d72d7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_f13d72d7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_f13d72d7.dir/rule
@@ -331,7 +361,7 @@ exe_f13d72d7: CMakeFiles/exe_f13d72d7.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_f13d72d7.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_f13d72d7.dir\build.make CMakeFiles/exe_f13d72d7.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=99,100 "Finished codegen for target exe_f13d72d7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=98 "Finished codegen for target exe_f13d72d7"
 .PHONY : CMakeFiles/exe_f13d72d7.dir/codegen
 
 # clean rule for target.
@@ -346,7 +376,7 @@ CMakeFiles/exe_f13d72d7.dir/clean:
 CMakeFiles/exe_62ef5c05.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_62ef5c05.dir\build.make CMakeFiles/exe_62ef5c05.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_62ef5c05.dir\build.make CMakeFiles/exe_62ef5c05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=41 "Built target exe_62ef5c05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=38 "Built target exe_62ef5c05"
 .PHONY : CMakeFiles/exe_62ef5c05.dir/all
 
 # Build rule for subdir invocation for target.
@@ -363,7 +393,7 @@ exe_62ef5c05: CMakeFiles/exe_62ef5c05.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_62ef5c05.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_62ef5c05.dir\build.make CMakeFiles/exe_62ef5c05.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=41 "Finished codegen for target exe_62ef5c05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=38 "Finished codegen for target exe_62ef5c05"
 .PHONY : CMakeFiles/exe_62ef5c05.dir/codegen
 
 # clean rule for target.
@@ -378,7 +408,7 @@ CMakeFiles/exe_62ef5c05.dir/clean:
 CMakeFiles/exe_36cc0ba1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_36cc0ba1.dir\build.make CMakeFiles/exe_36cc0ba1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_36cc0ba1.dir\build.make CMakeFiles/exe_36cc0ba1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=26 "Built target exe_36cc0ba1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=23 "Built target exe_36cc0ba1"
 .PHONY : CMakeFiles/exe_36cc0ba1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -395,7 +425,7 @@ exe_36cc0ba1: CMakeFiles/exe_36cc0ba1.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_36cc0ba1.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_36cc0ba1.dir\build.make CMakeFiles/exe_36cc0ba1.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=26 "Finished codegen for target exe_36cc0ba1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=23 "Finished codegen for target exe_36cc0ba1"
 .PHONY : CMakeFiles/exe_36cc0ba1.dir/codegen
 
 # clean rule for target.
@@ -410,12 +440,12 @@ CMakeFiles/exe_36cc0ba1.dir/clean:
 CMakeFiles/exe_3f85d051.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3f85d051.dir\build.make CMakeFiles/exe_3f85d051.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3f85d051.dir\build.make CMakeFiles/exe_3f85d051.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=29 "Built target exe_3f85d051"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=26,27 "Built target exe_3f85d051"
 .PHONY : CMakeFiles/exe_3f85d051.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_3f85d051.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_3f85d051.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_3f85d051.dir/rule
@@ -427,7 +457,7 @@ exe_3f85d051: CMakeFiles/exe_3f85d051.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_3f85d051.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3f85d051.dir\build.make CMakeFiles/exe_3f85d051.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=29 "Finished codegen for target exe_3f85d051"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=26,27 "Finished codegen for target exe_3f85d051"
 .PHONY : CMakeFiles/exe_3f85d051.dir/codegen
 
 # clean rule for target.
@@ -442,7 +472,7 @@ CMakeFiles/exe_3f85d051.dir/clean:
 CMakeFiles/exe_d1d58bcf.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d1d58bcf.dir\build.make CMakeFiles/exe_d1d58bcf.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d1d58bcf.dir\build.make CMakeFiles/exe_d1d58bcf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=89 "Built target exe_d1d58bcf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=88 "Built target exe_d1d58bcf"
 .PHONY : CMakeFiles/exe_d1d58bcf.dir/all
 
 # Build rule for subdir invocation for target.
@@ -459,7 +489,7 @@ exe_d1d58bcf: CMakeFiles/exe_d1d58bcf.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_d1d58bcf.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d1d58bcf.dir\build.make CMakeFiles/exe_d1d58bcf.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=89 "Finished codegen for target exe_d1d58bcf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=88 "Finished codegen for target exe_d1d58bcf"
 .PHONY : CMakeFiles/exe_d1d58bcf.dir/codegen
 
 # clean rule for target.
@@ -474,12 +504,12 @@ CMakeFiles/exe_d1d58bcf.dir/clean:
 CMakeFiles/exe_28fe7159.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_28fe7159.dir\build.make CMakeFiles/exe_28fe7159.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_28fe7159.dir\build.make CMakeFiles/exe_28fe7159.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=18,19 "Built target exe_28fe7159"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=16 "Built target exe_28fe7159"
 .PHONY : CMakeFiles/exe_28fe7159.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_28fe7159.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_28fe7159.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_28fe7159.dir/rule
@@ -491,7 +521,7 @@ exe_28fe7159: CMakeFiles/exe_28fe7159.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_28fe7159.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_28fe7159.dir\build.make CMakeFiles/exe_28fe7159.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=18,19 "Finished codegen for target exe_28fe7159"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=16 "Finished codegen for target exe_28fe7159"
 .PHONY : CMakeFiles/exe_28fe7159.dir/codegen
 
 # clean rule for target.
@@ -506,7 +536,7 @@ CMakeFiles/exe_28fe7159.dir/clean:
 CMakeFiles/exe_31cf86a2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_31cf86a2.dir\build.make CMakeFiles/exe_31cf86a2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_31cf86a2.dir\build.make CMakeFiles/exe_31cf86a2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=24,25 "Built target exe_31cf86a2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=21,22 "Built target exe_31cf86a2"
 .PHONY : CMakeFiles/exe_31cf86a2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -523,7 +553,7 @@ exe_31cf86a2: CMakeFiles/exe_31cf86a2.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_31cf86a2.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_31cf86a2.dir\build.make CMakeFiles/exe_31cf86a2.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=24,25 "Finished codegen for target exe_31cf86a2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=21,22 "Finished codegen for target exe_31cf86a2"
 .PHONY : CMakeFiles/exe_31cf86a2.dir/codegen
 
 # clean rule for target.
@@ -538,7 +568,7 @@ CMakeFiles/exe_31cf86a2.dir/clean:
 CMakeFiles/exe_d0b48535.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d0b48535.dir\build.make CMakeFiles/exe_d0b48535.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d0b48535.dir\build.make CMakeFiles/exe_d0b48535.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=87,88 "Built target exe_d0b48535"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=86,87 "Built target exe_d0b48535"
 .PHONY : CMakeFiles/exe_d0b48535.dir/all
 
 # Build rule for subdir invocation for target.
@@ -555,7 +585,7 @@ exe_d0b48535: CMakeFiles/exe_d0b48535.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_d0b48535.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d0b48535.dir\build.make CMakeFiles/exe_d0b48535.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=87,88 "Finished codegen for target exe_d0b48535"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=86,87 "Finished codegen for target exe_d0b48535"
 .PHONY : CMakeFiles/exe_d0b48535.dir/codegen
 
 # clean rule for target.
@@ -570,7 +600,7 @@ CMakeFiles/exe_d0b48535.dir/clean:
 CMakeFiles/exe_d6c30610.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d6c30610.dir\build.make CMakeFiles/exe_d6c30610.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d6c30610.dir\build.make CMakeFiles/exe_d6c30610.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=92 "Built target exe_d6c30610"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=90 "Built target exe_d6c30610"
 .PHONY : CMakeFiles/exe_d6c30610.dir/all
 
 # Build rule for subdir invocation for target.
@@ -587,7 +617,7 @@ exe_d6c30610: CMakeFiles/exe_d6c30610.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_d6c30610.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d6c30610.dir\build.make CMakeFiles/exe_d6c30610.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=92 "Finished codegen for target exe_d6c30610"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=90 "Finished codegen for target exe_d6c30610"
 .PHONY : CMakeFiles/exe_d6c30610.dir/codegen
 
 # clean rule for target.
@@ -602,7 +632,7 @@ CMakeFiles/exe_d6c30610.dir/clean:
 CMakeFiles/exe_5cd74c78.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_5cd74c78.dir\build.make CMakeFiles/exe_5cd74c78.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_5cd74c78.dir\build.make CMakeFiles/exe_5cd74c78.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=36,37 "Built target exe_5cd74c78"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=34,35 "Built target exe_5cd74c78"
 .PHONY : CMakeFiles/exe_5cd74c78.dir/all
 
 # Build rule for subdir invocation for target.
@@ -619,7 +649,7 @@ exe_5cd74c78: CMakeFiles/exe_5cd74c78.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_5cd74c78.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_5cd74c78.dir\build.make CMakeFiles/exe_5cd74c78.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=36,37 "Finished codegen for target exe_5cd74c78"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=34,35 "Finished codegen for target exe_5cd74c78"
 .PHONY : CMakeFiles/exe_5cd74c78.dir/codegen
 
 # clean rule for target.
@@ -634,12 +664,12 @@ CMakeFiles/exe_5cd74c78.dir/clean:
 CMakeFiles/exe_cd1f7aee.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cd1f7aee.dir\build.make CMakeFiles/exe_cd1f7aee.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cd1f7aee.dir\build.make CMakeFiles/exe_cd1f7aee.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=83 "Built target exe_cd1f7aee"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=82,83 "Built target exe_cd1f7aee"
 .PHONY : CMakeFiles/exe_cd1f7aee.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_cd1f7aee.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_cd1f7aee.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_cd1f7aee.dir/rule
@@ -651,7 +681,7 @@ exe_cd1f7aee: CMakeFiles/exe_cd1f7aee.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_cd1f7aee.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cd1f7aee.dir\build.make CMakeFiles/exe_cd1f7aee.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=83 "Finished codegen for target exe_cd1f7aee"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=82,83 "Finished codegen for target exe_cd1f7aee"
 .PHONY : CMakeFiles/exe_cd1f7aee.dir/codegen
 
 # clean rule for target.
@@ -666,12 +696,12 @@ CMakeFiles/exe_cd1f7aee.dir/clean:
 CMakeFiles/exe_0a2ea769.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0a2ea769.dir\build.make CMakeFiles/exe_0a2ea769.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0a2ea769.dir\build.make CMakeFiles/exe_0a2ea769.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=5 "Built target exe_0a2ea769"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=4,5 "Built target exe_0a2ea769"
 .PHONY : CMakeFiles/exe_0a2ea769.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_0a2ea769.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_0a2ea769.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_0a2ea769.dir/rule
@@ -683,7 +713,7 @@ exe_0a2ea769: CMakeFiles/exe_0a2ea769.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_0a2ea769.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0a2ea769.dir\build.make CMakeFiles/exe_0a2ea769.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=5 "Finished codegen for target exe_0a2ea769"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=4,5 "Finished codegen for target exe_0a2ea769"
 .PHONY : CMakeFiles/exe_0a2ea769.dir/codegen
 
 # clean rule for target.
@@ -698,12 +728,12 @@ CMakeFiles/exe_0a2ea769.dir/clean:
 CMakeFiles/exe_62473bfb.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_62473bfb.dir\build.make CMakeFiles/exe_62473bfb.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_62473bfb.dir\build.make CMakeFiles/exe_62473bfb.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=39,40 "Built target exe_62473bfb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=37 "Built target exe_62473bfb"
 .PHONY : CMakeFiles/exe_62473bfb.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_62473bfb.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_62473bfb.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_62473bfb.dir/rule
@@ -715,7 +745,7 @@ exe_62473bfb: CMakeFiles/exe_62473bfb.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_62473bfb.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_62473bfb.dir\build.make CMakeFiles/exe_62473bfb.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=39,40 "Finished codegen for target exe_62473bfb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=37 "Finished codegen for target exe_62473bfb"
 .PHONY : CMakeFiles/exe_62473bfb.dir/codegen
 
 # clean rule for target.
@@ -730,7 +760,7 @@ CMakeFiles/exe_62473bfb.dir/clean:
 CMakeFiles/exe_21bf6b22.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_21bf6b22.dir\build.make CMakeFiles/exe_21bf6b22.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_21bf6b22.dir\build.make CMakeFiles/exe_21bf6b22.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=15,16 "Built target exe_21bf6b22"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=13,14 "Built target exe_21bf6b22"
 .PHONY : CMakeFiles/exe_21bf6b22.dir/all
 
 # Build rule for subdir invocation for target.
@@ -747,7 +777,7 @@ exe_21bf6b22: CMakeFiles/exe_21bf6b22.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_21bf6b22.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_21bf6b22.dir\build.make CMakeFiles/exe_21bf6b22.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=15,16 "Finished codegen for target exe_21bf6b22"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=13,14 "Finished codegen for target exe_21bf6b22"
 .PHONY : CMakeFiles/exe_21bf6b22.dir/codegen
 
 # clean rule for target.
@@ -762,7 +792,7 @@ CMakeFiles/exe_21bf6b22.dir/clean:
 CMakeFiles/exe_936c2979.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_936c2979.dir\build.make CMakeFiles/exe_936c2979.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_936c2979.dir\build.make CMakeFiles/exe_936c2979.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=59 "Built target exe_936c2979"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=58 "Built target exe_936c2979"
 .PHONY : CMakeFiles/exe_936c2979.dir/all
 
 # Build rule for subdir invocation for target.
@@ -779,7 +809,7 @@ exe_936c2979: CMakeFiles/exe_936c2979.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_936c2979.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_936c2979.dir\build.make CMakeFiles/exe_936c2979.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=59 "Finished codegen for target exe_936c2979"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=58 "Finished codegen for target exe_936c2979"
 .PHONY : CMakeFiles/exe_936c2979.dir/codegen
 
 # clean rule for target.
@@ -794,12 +824,12 @@ CMakeFiles/exe_936c2979.dir/clean:
 CMakeFiles/exe_79468ae6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_79468ae6.dir\build.make CMakeFiles/exe_79468ae6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_79468ae6.dir\build.make CMakeFiles/exe_79468ae6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=51,52 "Built target exe_79468ae6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=50 "Built target exe_79468ae6"
 .PHONY : CMakeFiles/exe_79468ae6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_79468ae6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_79468ae6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_79468ae6.dir/rule
@@ -811,7 +841,7 @@ exe_79468ae6: CMakeFiles/exe_79468ae6.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_79468ae6.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_79468ae6.dir\build.make CMakeFiles/exe_79468ae6.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=51,52 "Finished codegen for target exe_79468ae6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=50 "Finished codegen for target exe_79468ae6"
 .PHONY : CMakeFiles/exe_79468ae6.dir/codegen
 
 # clean rule for target.
@@ -826,7 +856,7 @@ CMakeFiles/exe_79468ae6.dir/clean:
 CMakeFiles/exe_e63dc485.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e63dc485.dir\build.make CMakeFiles/exe_e63dc485.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e63dc485.dir\build.make CMakeFiles/exe_e63dc485.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=96,97 "Built target exe_e63dc485"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=95,96 "Built target exe_e63dc485"
 .PHONY : CMakeFiles/exe_e63dc485.dir/all
 
 # Build rule for subdir invocation for target.
@@ -843,7 +873,7 @@ exe_e63dc485: CMakeFiles/exe_e63dc485.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_e63dc485.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e63dc485.dir\build.make CMakeFiles/exe_e63dc485.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=96,97 "Finished codegen for target exe_e63dc485"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=95,96 "Finished codegen for target exe_e63dc485"
 .PHONY : CMakeFiles/exe_e63dc485.dir/codegen
 
 # clean rule for target.
@@ -858,12 +888,12 @@ CMakeFiles/exe_e63dc485.dir/clean:
 CMakeFiles/exe_2ba09421.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2ba09421.dir\build.make CMakeFiles/exe_2ba09421.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2ba09421.dir\build.make CMakeFiles/exe_2ba09421.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=21,22 "Built target exe_2ba09421"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=19 "Built target exe_2ba09421"
 .PHONY : CMakeFiles/exe_2ba09421.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_2ba09421.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_2ba09421.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_2ba09421.dir/rule
@@ -875,7 +905,7 @@ exe_2ba09421: CMakeFiles/exe_2ba09421.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_2ba09421.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2ba09421.dir\build.make CMakeFiles/exe_2ba09421.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=21,22 "Finished codegen for target exe_2ba09421"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=19 "Finished codegen for target exe_2ba09421"
 .PHONY : CMakeFiles/exe_2ba09421.dir/codegen
 
 # clean rule for target.
@@ -890,7 +920,7 @@ CMakeFiles/exe_2ba09421.dir/clean:
 CMakeFiles/exe_d9c833b5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d9c833b5.dir\build.make CMakeFiles/exe_d9c833b5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d9c833b5.dir\build.make CMakeFiles/exe_d9c833b5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=93,94 "Built target exe_d9c833b5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=91,92 "Built target exe_d9c833b5"
 .PHONY : CMakeFiles/exe_d9c833b5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -907,7 +937,7 @@ exe_d9c833b5: CMakeFiles/exe_d9c833b5.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_d9c833b5.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d9c833b5.dir\build.make CMakeFiles/exe_d9c833b5.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=93,94 "Finished codegen for target exe_d9c833b5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=91,92 "Finished codegen for target exe_d9c833b5"
 .PHONY : CMakeFiles/exe_d9c833b5.dir/codegen
 
 # clean rule for target.
@@ -922,7 +952,7 @@ CMakeFiles/exe_d9c833b5.dir/clean:
 CMakeFiles/exe_cf002458.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cf002458.dir\build.make CMakeFiles/exe_cf002458.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cf002458.dir\build.make CMakeFiles/exe_cf002458.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=86 "Built target exe_cf002458"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=85 "Built target exe_cf002458"
 .PHONY : CMakeFiles/exe_cf002458.dir/all
 
 # Build rule for subdir invocation for target.
@@ -939,7 +969,7 @@ exe_cf002458: CMakeFiles/exe_cf002458.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_cf002458.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cf002458.dir\build.make CMakeFiles/exe_cf002458.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=86 "Finished codegen for target exe_cf002458"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=85 "Finished codegen for target exe_cf002458"
 .PHONY : CMakeFiles/exe_cf002458.dir/codegen
 
 # clean rule for target.
@@ -954,12 +984,12 @@ CMakeFiles/exe_cf002458.dir/clean:
 CMakeFiles/exe_ba40afb9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_ba40afb9.dir\build.make CMakeFiles/exe_ba40afb9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_ba40afb9.dir\build.make CMakeFiles/exe_ba40afb9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=72,73 "Built target exe_ba40afb9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=72 "Built target exe_ba40afb9"
 .PHONY : CMakeFiles/exe_ba40afb9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_ba40afb9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_ba40afb9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_ba40afb9.dir/rule
@@ -971,7 +1001,7 @@ exe_ba40afb9: CMakeFiles/exe_ba40afb9.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_ba40afb9.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_ba40afb9.dir\build.make CMakeFiles/exe_ba40afb9.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=72,73 "Finished codegen for target exe_ba40afb9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=72 "Finished codegen for target exe_ba40afb9"
 .PHONY : CMakeFiles/exe_ba40afb9.dir/codegen
 
 # clean rule for target.
@@ -986,7 +1016,7 @@ CMakeFiles/exe_ba40afb9.dir/clean:
 CMakeFiles/exe_72239518.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_72239518.dir\build.make CMakeFiles/exe_72239518.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_72239518.dir\build.make CMakeFiles/exe_72239518.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=47 "Built target exe_72239518"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=46 "Built target exe_72239518"
 .PHONY : CMakeFiles/exe_72239518.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1003,7 +1033,7 @@ exe_72239518: CMakeFiles/exe_72239518.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_72239518.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_72239518.dir\build.make CMakeFiles/exe_72239518.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=47 "Finished codegen for target exe_72239518"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=46 "Finished codegen for target exe_72239518"
 .PHONY : CMakeFiles/exe_72239518.dir/codegen
 
 # clean rule for target.
@@ -1018,12 +1048,12 @@ CMakeFiles/exe_72239518.dir/clean:
 CMakeFiles/exe_c6255b1f.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c6255b1f.dir\build.make CMakeFiles/exe_c6255b1f.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c6255b1f.dir\build.make CMakeFiles/exe_c6255b1f.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=81,82 "Built target exe_c6255b1f"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=80 "Built target exe_c6255b1f"
 .PHONY : CMakeFiles/exe_c6255b1f.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_c6255b1f.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_c6255b1f.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_c6255b1f.dir/rule
@@ -1035,7 +1065,7 @@ exe_c6255b1f: CMakeFiles/exe_c6255b1f.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_c6255b1f.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c6255b1f.dir\build.make CMakeFiles/exe_c6255b1f.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=81,82 "Finished codegen for target exe_c6255b1f"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=80 "Finished codegen for target exe_c6255b1f"
 .PHONY : CMakeFiles/exe_c6255b1f.dir/codegen
 
 # clean rule for target.
@@ -1146,7 +1176,7 @@ CMakeFiles/exe_b1c6ab8c.dir/clean:
 CMakeFiles/exe_c00d58b4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c00d58b4.dir\build.make CMakeFiles/exe_c00d58b4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c00d58b4.dir\build.make CMakeFiles/exe_c00d58b4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=77 "Built target exe_c00d58b4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=76 "Built target exe_c00d58b4"
 .PHONY : CMakeFiles/exe_c00d58b4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1163,7 +1193,7 @@ exe_c00d58b4: CMakeFiles/exe_c00d58b4.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_c00d58b4.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c00d58b4.dir\build.make CMakeFiles/exe_c00d58b4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=77 "Finished codegen for target exe_c00d58b4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=76 "Finished codegen for target exe_c00d58b4"
 .PHONY : CMakeFiles/exe_c00d58b4.dir/codegen
 
 # clean rule for target.
@@ -1178,7 +1208,7 @@ CMakeFiles/exe_c00d58b4.dir/clean:
 CMakeFiles/exe_902c0659.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_902c0659.dir\build.make CMakeFiles/exe_902c0659.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_902c0659.dir\build.make CMakeFiles/exe_902c0659.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=56 "Built target exe_902c0659"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=55 "Built target exe_902c0659"
 .PHONY : CMakeFiles/exe_902c0659.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1195,7 +1225,7 @@ exe_902c0659: CMakeFiles/exe_902c0659.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_902c0659.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_902c0659.dir\build.make CMakeFiles/exe_902c0659.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=56 "Finished codegen for target exe_902c0659"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=55 "Finished codegen for target exe_902c0659"
 .PHONY : CMakeFiles/exe_902c0659.dir/codegen
 
 # clean rule for target.
@@ -1210,7 +1240,7 @@ CMakeFiles/exe_902c0659.dir/clean:
 CMakeFiles/exe_1d4bb00b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_1d4bb00b.dir\build.make CMakeFiles/exe_1d4bb00b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_1d4bb00b.dir\build.make CMakeFiles/exe_1d4bb00b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=14 "Built target exe_1d4bb00b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=12 "Built target exe_1d4bb00b"
 .PHONY : CMakeFiles/exe_1d4bb00b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1227,7 +1257,7 @@ exe_1d4bb00b: CMakeFiles/exe_1d4bb00b.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_1d4bb00b.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_1d4bb00b.dir\build.make CMakeFiles/exe_1d4bb00b.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=14 "Finished codegen for target exe_1d4bb00b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=12 "Finished codegen for target exe_1d4bb00b"
 .PHONY : CMakeFiles/exe_1d4bb00b.dir/codegen
 
 # clean rule for target.
@@ -1242,7 +1272,7 @@ CMakeFiles/exe_1d4bb00b.dir/clean:
 CMakeFiles/exe_449e86ca.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_449e86ca.dir\build.make CMakeFiles/exe_449e86ca.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_449e86ca.dir\build.make CMakeFiles/exe_449e86ca.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=32 "Built target exe_449e86ca"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=29 "Built target exe_449e86ca"
 .PHONY : CMakeFiles/exe_449e86ca.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1259,7 +1289,7 @@ exe_449e86ca: CMakeFiles/exe_449e86ca.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_449e86ca.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_449e86ca.dir\build.make CMakeFiles/exe_449e86ca.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=32 "Finished codegen for target exe_449e86ca"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=29 "Finished codegen for target exe_449e86ca"
 .PHONY : CMakeFiles/exe_449e86ca.dir/codegen
 
 # clean rule for target.
@@ -1274,7 +1304,7 @@ CMakeFiles/exe_449e86ca.dir/clean:
 CMakeFiles/exe_4594707e.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_4594707e.dir\build.make CMakeFiles/exe_4594707e.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_4594707e.dir\build.make CMakeFiles/exe_4594707e.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=33,34 "Built target exe_4594707e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=30,31 "Built target exe_4594707e"
 .PHONY : CMakeFiles/exe_4594707e.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1291,7 +1321,7 @@ exe_4594707e: CMakeFiles/exe_4594707e.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_4594707e.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_4594707e.dir\build.make CMakeFiles/exe_4594707e.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=33,34 "Finished codegen for target exe_4594707e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=30,31 "Finished codegen for target exe_4594707e"
 .PHONY : CMakeFiles/exe_4594707e.dir/codegen
 
 # clean rule for target.
@@ -1306,12 +1336,12 @@ CMakeFiles/exe_4594707e.dir/clean:
 CMakeFiles/exe_8d620f21.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_8d620f21.dir\build.make CMakeFiles/exe_8d620f21.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_8d620f21.dir\build.make CMakeFiles/exe_8d620f21.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=54,55 "Built target exe_8d620f21"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=54 "Built target exe_8d620f21"
 .PHONY : CMakeFiles/exe_8d620f21.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_8d620f21.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_8d620f21.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_8d620f21.dir/rule
@@ -1323,7 +1353,7 @@ exe_8d620f21: CMakeFiles/exe_8d620f21.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_8d620f21.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_8d620f21.dir\build.make CMakeFiles/exe_8d620f21.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=54,55 "Finished codegen for target exe_8d620f21"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=54 "Finished codegen for target exe_8d620f21"
 .PHONY : CMakeFiles/exe_8d620f21.dir/codegen
 
 # clean rule for target.
@@ -1338,12 +1368,12 @@ CMakeFiles/exe_8d620f21.dir/clean:
 CMakeFiles/exe_3c5f8163.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3c5f8163.dir\build.make CMakeFiles/exe_3c5f8163.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3c5f8163.dir\build.make CMakeFiles/exe_3c5f8163.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=27,28 "Built target exe_3c5f8163"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=24 "Built target exe_3c5f8163"
 .PHONY : CMakeFiles/exe_3c5f8163.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_3c5f8163.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_3c5f8163.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_3c5f8163.dir/rule
@@ -1355,7 +1385,7 @@ exe_3c5f8163: CMakeFiles/exe_3c5f8163.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_3c5f8163.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3c5f8163.dir\build.make CMakeFiles/exe_3c5f8163.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=27,28 "Finished codegen for target exe_3c5f8163"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=24 "Finished codegen for target exe_3c5f8163"
 .PHONY : CMakeFiles/exe_3c5f8163.dir/codegen
 
 # clean rule for target.
@@ -1370,12 +1400,12 @@ CMakeFiles/exe_3c5f8163.dir/clean:
 CMakeFiles/exe_6df94e69.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_6df94e69.dir\build.make CMakeFiles/exe_6df94e69.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_6df94e69.dir\build.make CMakeFiles/exe_6df94e69.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=45,46 "Built target exe_6df94e69"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=45 "Built target exe_6df94e69"
 .PHONY : CMakeFiles/exe_6df94e69.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_6df94e69.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_6df94e69.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_6df94e69.dir/rule
@@ -1387,7 +1417,7 @@ exe_6df94e69: CMakeFiles/exe_6df94e69.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_6df94e69.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_6df94e69.dir\build.make CMakeFiles/exe_6df94e69.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=45,46 "Finished codegen for target exe_6df94e69"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=45 "Finished codegen for target exe_6df94e69"
 .PHONY : CMakeFiles/exe_6df94e69.dir/codegen
 
 # clean rule for target.
@@ -1402,7 +1432,7 @@ CMakeFiles/exe_6df94e69.dir/clean:
 CMakeFiles/exe_a4fba351.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_a4fba351.dir\build.make CMakeFiles/exe_a4fba351.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_a4fba351.dir\build.make CMakeFiles/exe_a4fba351.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=68 "Built target exe_a4fba351"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=67 "Built target exe_a4fba351"
 .PHONY : CMakeFiles/exe_a4fba351.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1419,7 +1449,7 @@ exe_a4fba351: CMakeFiles/exe_a4fba351.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_a4fba351.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_a4fba351.dir\build.make CMakeFiles/exe_a4fba351.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=68 "Finished codegen for target exe_a4fba351"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=67 "Finished codegen for target exe_a4fba351"
 .PHONY : CMakeFiles/exe_a4fba351.dir/codegen
 
 # clean rule for target.
@@ -1434,12 +1464,12 @@ CMakeFiles/exe_a4fba351.dir/clean:
 CMakeFiles/exe_bf733520.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_bf733520.dir\build.make CMakeFiles/exe_bf733520.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_bf733520.dir\build.make CMakeFiles/exe_bf733520.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=75,76 "Built target exe_bf733520"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=75 "Built target exe_bf733520"
 .PHONY : CMakeFiles/exe_bf733520.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_bf733520.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_bf733520.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_bf733520.dir/rule
@@ -1451,7 +1481,7 @@ exe_bf733520: CMakeFiles/exe_bf733520.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_bf733520.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_bf733520.dir\build.make CMakeFiles/exe_bf733520.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=75,76 "Finished codegen for target exe_bf733520"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=75 "Finished codegen for target exe_bf733520"
 .PHONY : CMakeFiles/exe_bf733520.dir/codegen
 
 # clean rule for target.
@@ -1466,7 +1496,7 @@ CMakeFiles/exe_bf733520.dir/clean:
 CMakeFiles/exe_12025d1c.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_12025d1c.dir\build.make CMakeFiles/exe_12025d1c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_12025d1c.dir\build.make CMakeFiles/exe_12025d1c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=8 "Built target exe_12025d1c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=7 "Built target exe_12025d1c"
 .PHONY : CMakeFiles/exe_12025d1c.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1483,7 +1513,7 @@ exe_12025d1c: CMakeFiles/exe_12025d1c.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_12025d1c.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_12025d1c.dir\build.make CMakeFiles/exe_12025d1c.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=8 "Finished codegen for target exe_12025d1c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=7 "Finished codegen for target exe_12025d1c"
 .PHONY : CMakeFiles/exe_12025d1c.dir/codegen
 
 # clean rule for target.
@@ -1498,12 +1528,12 @@ CMakeFiles/exe_12025d1c.dir/clean:
 CMakeFiles/exe_69114f45.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_69114f45.dir\build.make CMakeFiles/exe_69114f45.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_69114f45.dir\build.make CMakeFiles/exe_69114f45.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=44 "Built target exe_69114f45"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=43,44 "Built target exe_69114f45"
 .PHONY : CMakeFiles/exe_69114f45.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_69114f45.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_69114f45.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_69114f45.dir/rule
@@ -1515,7 +1545,7 @@ exe_69114f45: CMakeFiles/exe_69114f45.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_69114f45.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_69114f45.dir\build.make CMakeFiles/exe_69114f45.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=44 "Finished codegen for target exe_69114f45"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=43,44 "Finished codegen for target exe_69114f45"
 .PHONY : CMakeFiles/exe_69114f45.dir/codegen
 
 # clean rule for target.
@@ -1530,7 +1560,7 @@ CMakeFiles/exe_69114f45.dir/clean:
 CMakeFiles/exe_72e2e3c3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_72e2e3c3.dir\build.make CMakeFiles/exe_72e2e3c3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_72e2e3c3.dir\build.make CMakeFiles/exe_72e2e3c3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=48,49 "Built target exe_72e2e3c3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=47,48 "Built target exe_72e2e3c3"
 .PHONY : CMakeFiles/exe_72e2e3c3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1547,7 +1577,7 @@ exe_72e2e3c3: CMakeFiles/exe_72e2e3c3.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_72e2e3c3.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_72e2e3c3.dir\build.make CMakeFiles/exe_72e2e3c3.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=48,49 "Finished codegen for target exe_72e2e3c3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=47,48 "Finished codegen for target exe_72e2e3c3"
 .PHONY : CMakeFiles/exe_72e2e3c3.dir/codegen
 
 # clean rule for target.
@@ -1562,12 +1592,12 @@ CMakeFiles/exe_72e2e3c3.dir/clean:
 CMakeFiles/exe_6760cd48.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_6760cd48.dir\build.make CMakeFiles/exe_6760cd48.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_6760cd48.dir\build.make CMakeFiles/exe_6760cd48.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=42,43 "Built target exe_6760cd48"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=42 "Built target exe_6760cd48"
 .PHONY : CMakeFiles/exe_6760cd48.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_6760cd48.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_6760cd48.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_6760cd48.dir/rule
@@ -1579,7 +1609,7 @@ exe_6760cd48: CMakeFiles/exe_6760cd48.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_6760cd48.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_6760cd48.dir\build.make CMakeFiles/exe_6760cd48.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=42,43 "Finished codegen for target exe_6760cd48"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=42 "Finished codegen for target exe_6760cd48"
 .PHONY : CMakeFiles/exe_6760cd48.dir/codegen
 
 # clean rule for target.
@@ -1594,12 +1624,12 @@ CMakeFiles/exe_6760cd48.dir/clean:
 CMakeFiles/exe_7f1cd12c.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_7f1cd12c.dir\build.make CMakeFiles/exe_7f1cd12c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_7f1cd12c.dir\build.make CMakeFiles/exe_7f1cd12c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=53 "Built target exe_7f1cd12c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=52,53 "Built target exe_7f1cd12c"
 .PHONY : CMakeFiles/exe_7f1cd12c.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_7f1cd12c.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_7f1cd12c.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_7f1cd12c.dir/rule
@@ -1611,7 +1641,7 @@ exe_7f1cd12c: CMakeFiles/exe_7f1cd12c.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_7f1cd12c.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_7f1cd12c.dir\build.make CMakeFiles/exe_7f1cd12c.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=53 "Finished codegen for target exe_7f1cd12c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=52,53 "Finished codegen for target exe_7f1cd12c"
 .PHONY : CMakeFiles/exe_7f1cd12c.dir/codegen
 
 # clean rule for target.
@@ -1658,12 +1688,12 @@ CMakeFiles/exe_07bbf925.dir/clean:
 CMakeFiles/exe_cd837d30.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cd837d30.dir\build.make CMakeFiles/exe_cd837d30.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cd837d30.dir\build.make CMakeFiles/exe_cd837d30.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=84,85 "Built target exe_cd837d30"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=84 "Built target exe_cd837d30"
 .PHONY : CMakeFiles/exe_cd837d30.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_cd837d30.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_cd837d30.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_cd837d30.dir/rule
@@ -1675,7 +1705,7 @@ exe_cd837d30: CMakeFiles/exe_cd837d30.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_cd837d30.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_cd837d30.dir\build.make CMakeFiles/exe_cd837d30.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=84,85 "Finished codegen for target exe_cd837d30"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=84 "Finished codegen for target exe_cd837d30"
 .PHONY : CMakeFiles/exe_cd837d30.dir/codegen
 
 # clean rule for target.
@@ -1690,12 +1720,12 @@ CMakeFiles/exe_cd837d30.dir/clean:
 CMakeFiles/exe_1aeb0b90.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_1aeb0b90.dir\build.make CMakeFiles/exe_1aeb0b90.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_1aeb0b90.dir\build.make CMakeFiles/exe_1aeb0b90.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=12,13 "Built target exe_1aeb0b90"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=11 "Built target exe_1aeb0b90"
 .PHONY : CMakeFiles/exe_1aeb0b90.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_1aeb0b90.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_1aeb0b90.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_1aeb0b90.dir/rule
@@ -1707,7 +1737,7 @@ exe_1aeb0b90: CMakeFiles/exe_1aeb0b90.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_1aeb0b90.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_1aeb0b90.dir\build.make CMakeFiles/exe_1aeb0b90.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=12,13 "Finished codegen for target exe_1aeb0b90"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=11 "Finished codegen for target exe_1aeb0b90"
 .PHONY : CMakeFiles/exe_1aeb0b90.dir/codegen
 
 # clean rule for target.
@@ -1722,12 +1752,12 @@ CMakeFiles/exe_1aeb0b90.dir/clean:
 CMakeFiles/exe_c4ab13af.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c4ab13af.dir\build.make CMakeFiles/exe_c4ab13af.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c4ab13af.dir\build.make CMakeFiles/exe_c4ab13af.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=80 "Built target exe_c4ab13af"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=78,79 "Built target exe_c4ab13af"
 .PHONY : CMakeFiles/exe_c4ab13af.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_c4ab13af.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_c4ab13af.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_c4ab13af.dir/rule
@@ -1739,7 +1769,7 @@ exe_c4ab13af: CMakeFiles/exe_c4ab13af.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_c4ab13af.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c4ab13af.dir\build.make CMakeFiles/exe_c4ab13af.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=80 "Finished codegen for target exe_c4ab13af"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=78,79 "Finished codegen for target exe_c4ab13af"
 .PHONY : CMakeFiles/exe_c4ab13af.dir/codegen
 
 # clean rule for target.
@@ -1754,12 +1784,12 @@ CMakeFiles/exe_c4ab13af.dir/clean:
 CMakeFiles/exe_bafe9202.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_bafe9202.dir\build.make CMakeFiles/exe_bafe9202.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_bafe9202.dir\build.make CMakeFiles/exe_bafe9202.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=74 "Built target exe_bafe9202"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=73,74 "Built target exe_bafe9202"
 .PHONY : CMakeFiles/exe_bafe9202.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_bafe9202.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_bafe9202.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_bafe9202.dir/rule
@@ -1771,7 +1801,7 @@ exe_bafe9202: CMakeFiles/exe_bafe9202.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_bafe9202.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_bafe9202.dir\build.make CMakeFiles/exe_bafe9202.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=74 "Finished codegen for target exe_bafe9202"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=73,74 "Finished codegen for target exe_bafe9202"
 .PHONY : CMakeFiles/exe_bafe9202.dir/codegen
 
 # clean rule for target.
@@ -1786,7 +1816,7 @@ CMakeFiles/exe_bafe9202.dir/clean:
 CMakeFiles/exe_de3de304.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_de3de304.dir\build.make CMakeFiles/exe_de3de304.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_de3de304.dir\build.make CMakeFiles/exe_de3de304.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=95 "Built target exe_de3de304"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=93 "Built target exe_de3de304"
 .PHONY : CMakeFiles/exe_de3de304.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1803,7 +1833,7 @@ exe_de3de304: CMakeFiles/exe_de3de304.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_de3de304.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_de3de304.dir\build.make CMakeFiles/exe_de3de304.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=95 "Finished codegen for target exe_de3de304"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=93 "Finished codegen for target exe_de3de304"
 .PHONY : CMakeFiles/exe_de3de304.dir/codegen
 
 # clean rule for target.
@@ -1812,18 +1842,50 @@ CMakeFiles/exe_de3de304.dir/clean:
 .PHONY : CMakeFiles/exe_de3de304.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/exe_7b296b75.dir
+
+# All Build rule for target.
+CMakeFiles/exe_7b296b75.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_7b296b75.dir\build.make CMakeFiles/exe_7b296b75.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_7b296b75.dir\build.make CMakeFiles/exe_7b296b75.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=51 "Built target exe_7b296b75"
+.PHONY : CMakeFiles/exe_7b296b75.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_7b296b75.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_7b296b75.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_7b296b75.dir/rule
+
+# Convenience name for target.
+exe_7b296b75: CMakeFiles/exe_7b296b75.dir/rule
+.PHONY : exe_7b296b75
+
+# codegen rule for target.
+CMakeFiles/exe_7b296b75.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_7b296b75.dir\build.make CMakeFiles/exe_7b296b75.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=51 "Finished codegen for target exe_7b296b75"
+.PHONY : CMakeFiles/exe_7b296b75.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_7b296b75.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_7b296b75.dir\build.make CMakeFiles/exe_7b296b75.dir/clean
+.PHONY : CMakeFiles/exe_7b296b75.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/exe_b0bc409e.dir
 
 # All Build rule for target.
 CMakeFiles/exe_b0bc409e.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_b0bc409e.dir\build.make CMakeFiles/exe_b0bc409e.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_b0bc409e.dir\build.make CMakeFiles/exe_b0bc409e.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=69,70 "Built target exe_b0bc409e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=68 "Built target exe_b0bc409e"
 .PHONY : CMakeFiles/exe_b0bc409e.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_b0bc409e.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_b0bc409e.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_b0bc409e.dir/rule
@@ -1835,7 +1897,7 @@ exe_b0bc409e: CMakeFiles/exe_b0bc409e.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_b0bc409e.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_b0bc409e.dir\build.make CMakeFiles/exe_b0bc409e.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=69,70 "Finished codegen for target exe_b0bc409e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=68 "Finished codegen for target exe_b0bc409e"
 .PHONY : CMakeFiles/exe_b0bc409e.dir/codegen
 
 # clean rule for target.
@@ -1844,13 +1906,269 @@ CMakeFiles/exe_b0bc409e.dir/clean:
 .PHONY : CMakeFiles/exe_b0bc409e.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/exe_54712fca.dir
+
+# All Build rule for target.
+CMakeFiles/exe_54712fca.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_54712fca.dir\build.make CMakeFiles/exe_54712fca.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_54712fca.dir\build.make CMakeFiles/exe_54712fca.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=32 "Built target exe_54712fca"
+.PHONY : CMakeFiles/exe_54712fca.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_54712fca.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_54712fca.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_54712fca.dir/rule
+
+# Convenience name for target.
+exe_54712fca: CMakeFiles/exe_54712fca.dir/rule
+.PHONY : exe_54712fca
+
+# codegen rule for target.
+CMakeFiles/exe_54712fca.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_54712fca.dir\build.make CMakeFiles/exe_54712fca.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=32 "Finished codegen for target exe_54712fca"
+.PHONY : CMakeFiles/exe_54712fca.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_54712fca.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_54712fca.dir\build.make CMakeFiles/exe_54712fca.dir/clean
+.PHONY : CMakeFiles/exe_54712fca.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exe_c816cce7.dir
+
+# All Build rule for target.
+CMakeFiles/exe_c816cce7.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c816cce7.dir\build.make CMakeFiles/exe_c816cce7.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c816cce7.dir\build.make CMakeFiles/exe_c816cce7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=81 "Built target exe_c816cce7"
+.PHONY : CMakeFiles/exe_c816cce7.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_c816cce7.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_c816cce7.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_c816cce7.dir/rule
+
+# Convenience name for target.
+exe_c816cce7: CMakeFiles/exe_c816cce7.dir/rule
+.PHONY : exe_c816cce7
+
+# codegen rule for target.
+CMakeFiles/exe_c816cce7.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c816cce7.dir\build.make CMakeFiles/exe_c816cce7.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=81 "Finished codegen for target exe_c816cce7"
+.PHONY : CMakeFiles/exe_c816cce7.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_c816cce7.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c816cce7.dir\build.make CMakeFiles/exe_c816cce7.dir/clean
+.PHONY : CMakeFiles/exe_c816cce7.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exe_666b74e5.dir
+
+# All Build rule for target.
+CMakeFiles/exe_666b74e5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_666b74e5.dir\build.make CMakeFiles/exe_666b74e5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_666b74e5.dir\build.make CMakeFiles/exe_666b74e5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=41 "Built target exe_666b74e5"
+.PHONY : CMakeFiles/exe_666b74e5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_666b74e5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_666b74e5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_666b74e5.dir/rule
+
+# Convenience name for target.
+exe_666b74e5: CMakeFiles/exe_666b74e5.dir/rule
+.PHONY : exe_666b74e5
+
+# codegen rule for target.
+CMakeFiles/exe_666b74e5.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_666b74e5.dir\build.make CMakeFiles/exe_666b74e5.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=41 "Finished codegen for target exe_666b74e5"
+.PHONY : CMakeFiles/exe_666b74e5.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_666b74e5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_666b74e5.dir\build.make CMakeFiles/exe_666b74e5.dir/clean
+.PHONY : CMakeFiles/exe_666b74e5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exe_fe269985.dir
+
+# All Build rule for target.
+CMakeFiles/exe_fe269985.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_fe269985.dir\build.make CMakeFiles/exe_fe269985.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_fe269985.dir\build.make CMakeFiles/exe_fe269985.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=99,100 "Built target exe_fe269985"
+.PHONY : CMakeFiles/exe_fe269985.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_fe269985.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_fe269985.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_fe269985.dir/rule
+
+# Convenience name for target.
+exe_fe269985: CMakeFiles/exe_fe269985.dir/rule
+.PHONY : exe_fe269985
+
+# codegen rule for target.
+CMakeFiles/exe_fe269985.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_fe269985.dir\build.make CMakeFiles/exe_fe269985.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=99,100 "Finished codegen for target exe_fe269985"
+.PHONY : CMakeFiles/exe_fe269985.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_fe269985.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_fe269985.dir\build.make CMakeFiles/exe_fe269985.dir/clean
+.PHONY : CMakeFiles/exe_fe269985.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exe_638bc430.dir
+
+# All Build rule for target.
+CMakeFiles/exe_638bc430.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_638bc430.dir\build.make CMakeFiles/exe_638bc430.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_638bc430.dir\build.make CMakeFiles/exe_638bc430.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=39,40 "Built target exe_638bc430"
+.PHONY : CMakeFiles/exe_638bc430.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_638bc430.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_638bc430.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_638bc430.dir/rule
+
+# Convenience name for target.
+exe_638bc430: CMakeFiles/exe_638bc430.dir/rule
+.PHONY : exe_638bc430
+
+# codegen rule for target.
+CMakeFiles/exe_638bc430.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_638bc430.dir\build.make CMakeFiles/exe_638bc430.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=39,40 "Finished codegen for target exe_638bc430"
+.PHONY : CMakeFiles/exe_638bc430.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_638bc430.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_638bc430.dir\build.make CMakeFiles/exe_638bc430.dir/clean
+.PHONY : CMakeFiles/exe_638bc430.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exe_b18f4bc2.dir
+
+# All Build rule for target.
+CMakeFiles/exe_b18f4bc2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_b18f4bc2.dir\build.make CMakeFiles/exe_b18f4bc2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_b18f4bc2.dir\build.make CMakeFiles/exe_b18f4bc2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=69,70 "Built target exe_b18f4bc2"
+.PHONY : CMakeFiles/exe_b18f4bc2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_b18f4bc2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_b18f4bc2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_b18f4bc2.dir/rule
+
+# Convenience name for target.
+exe_b18f4bc2: CMakeFiles/exe_b18f4bc2.dir/rule
+.PHONY : exe_b18f4bc2
+
+# codegen rule for target.
+CMakeFiles/exe_b18f4bc2.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_b18f4bc2.dir\build.make CMakeFiles/exe_b18f4bc2.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=69,70 "Finished codegen for target exe_b18f4bc2"
+.PHONY : CMakeFiles/exe_b18f4bc2.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_b18f4bc2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_b18f4bc2.dir\build.make CMakeFiles/exe_b18f4bc2.dir/clean
+.PHONY : CMakeFiles/exe_b18f4bc2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exe_950b989f.dir
+
+# All Build rule for target.
+CMakeFiles/exe_950b989f.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_950b989f.dir\build.make CMakeFiles/exe_950b989f.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_950b989f.dir\build.make CMakeFiles/exe_950b989f.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=59 "Built target exe_950b989f"
+.PHONY : CMakeFiles/exe_950b989f.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_950b989f.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_950b989f.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_950b989f.dir/rule
+
+# Convenience name for target.
+exe_950b989f: CMakeFiles/exe_950b989f.dir/rule
+.PHONY : exe_950b989f
+
+# codegen rule for target.
+CMakeFiles/exe_950b989f.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_950b989f.dir\build.make CMakeFiles/exe_950b989f.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=59 "Finished codegen for target exe_950b989f"
+.PHONY : CMakeFiles/exe_950b989f.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_950b989f.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_950b989f.dir\build.make CMakeFiles/exe_950b989f.dir/clean
+.PHONY : CMakeFiles/exe_950b989f.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exe_3d1ab674.dir
+
+# All Build rule for target.
+CMakeFiles/exe_3d1ab674.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3d1ab674.dir\build.make CMakeFiles/exe_3d1ab674.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3d1ab674.dir\build.make CMakeFiles/exe_3d1ab674.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=25 "Built target exe_3d1ab674"
+.PHONY : CMakeFiles/exe_3d1ab674.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_3d1ab674.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_3d1ab674.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_3d1ab674.dir/rule
+
+# Convenience name for target.
+exe_3d1ab674: CMakeFiles/exe_3d1ab674.dir/rule
+.PHONY : exe_3d1ab674
+
+# codegen rule for target.
+CMakeFiles/exe_3d1ab674.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3d1ab674.dir\build.make CMakeFiles/exe_3d1ab674.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=25 "Finished codegen for target exe_3d1ab674"
+.PHONY : CMakeFiles/exe_3d1ab674.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_3d1ab674.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_3d1ab674.dir\build.make CMakeFiles/exe_3d1ab674.dir/clean
+.PHONY : CMakeFiles/exe_3d1ab674.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/exe_61ef260b.dir
 
 # All Build rule for target.
 CMakeFiles/exe_61ef260b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_61ef260b.dir\build.make CMakeFiles/exe_61ef260b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_61ef260b.dir\build.make CMakeFiles/exe_61ef260b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=38 "Built target exe_61ef260b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=36 "Built target exe_61ef260b"
 .PHONY : CMakeFiles/exe_61ef260b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1867,7 +2185,7 @@ exe_61ef260b: CMakeFiles/exe_61ef260b.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_61ef260b.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_61ef260b.dir\build.make CMakeFiles/exe_61ef260b.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=38 "Finished codegen for target exe_61ef260b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=36 "Finished codegen for target exe_61ef260b"
 .PHONY : CMakeFiles/exe_61ef260b.dir/codegen
 
 # clean rule for target.
@@ -1882,12 +2200,12 @@ CMakeFiles/exe_61ef260b.dir/clean:
 CMakeFiles/exe_d5a505d4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d5a505d4.dir\build.make CMakeFiles/exe_d5a505d4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d5a505d4.dir\build.make CMakeFiles/exe_d5a505d4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=90,91 "Built target exe_d5a505d4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=89 "Built target exe_d5a505d4"
 .PHONY : CMakeFiles/exe_d5a505d4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_d5a505d4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_d5a505d4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_d5a505d4.dir/rule
@@ -1899,7 +2217,7 @@ exe_d5a505d4: CMakeFiles/exe_d5a505d4.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_d5a505d4.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_d5a505d4.dir\build.make CMakeFiles/exe_d5a505d4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=90,91 "Finished codegen for target exe_d5a505d4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=89 "Finished codegen for target exe_d5a505d4"
 .PHONY : CMakeFiles/exe_d5a505d4.dir/codegen
 
 # clean rule for target.
@@ -1914,12 +2232,12 @@ CMakeFiles/exe_d5a505d4.dir/clean:
 CMakeFiles/exe_0874ca58.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0874ca58.dir\build.make CMakeFiles/exe_0874ca58.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0874ca58.dir\build.make CMakeFiles/exe_0874ca58.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=3,4 "Built target exe_0874ca58"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=3 "Built target exe_0874ca58"
 .PHONY : CMakeFiles/exe_0874ca58.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_0874ca58.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_0874ca58.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_0874ca58.dir/rule
@@ -1931,7 +2249,7 @@ exe_0874ca58: CMakeFiles/exe_0874ca58.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_0874ca58.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0874ca58.dir\build.make CMakeFiles/exe_0874ca58.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=3,4 "Finished codegen for target exe_0874ca58"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=3 "Finished codegen for target exe_0874ca58"
 .PHONY : CMakeFiles/exe_0874ca58.dir/codegen
 
 # clean rule for target.
@@ -1946,12 +2264,12 @@ CMakeFiles/exe_0874ca58.dir/clean:
 CMakeFiles/exe_29e927f4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_29e927f4.dir\build.make CMakeFiles/exe_29e927f4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_29e927f4.dir\build.make CMakeFiles/exe_29e927f4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=20 "Built target exe_29e927f4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=17,18 "Built target exe_29e927f4"
 .PHONY : CMakeFiles/exe_29e927f4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_29e927f4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_29e927f4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_29e927f4.dir/rule
@@ -1963,7 +2281,7 @@ exe_29e927f4: CMakeFiles/exe_29e927f4.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_29e927f4.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_29e927f4.dir\build.make CMakeFiles/exe_29e927f4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=20 "Finished codegen for target exe_29e927f4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=17,18 "Finished codegen for target exe_29e927f4"
 .PHONY : CMakeFiles/exe_29e927f4.dir/codegen
 
 # clean rule for target.
@@ -1972,18 +2290,50 @@ CMakeFiles/exe_29e927f4.dir/clean:
 .PHONY : CMakeFiles/exe_29e927f4.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/exe_e2fbb952.dir
+
+# All Build rule for target.
+CMakeFiles/exe_e2fbb952.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e2fbb952.dir\build.make CMakeFiles/exe_e2fbb952.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e2fbb952.dir\build.make CMakeFiles/exe_e2fbb952.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=94 "Built target exe_e2fbb952"
+.PHONY : CMakeFiles/exe_e2fbb952.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exe_e2fbb952.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_e2fbb952.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
+.PHONY : CMakeFiles/exe_e2fbb952.dir/rule
+
+# Convenience name for target.
+exe_e2fbb952: CMakeFiles/exe_e2fbb952.dir/rule
+.PHONY : exe_e2fbb952
+
+# codegen rule for target.
+CMakeFiles/exe_e2fbb952.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e2fbb952.dir\build.make CMakeFiles/exe_e2fbb952.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=94 "Finished codegen for target exe_e2fbb952"
+.PHONY : CMakeFiles/exe_e2fbb952.dir/codegen
+
+# clean rule for target.
+CMakeFiles/exe_e2fbb952.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e2fbb952.dir\build.make CMakeFiles/exe_e2fbb952.dir/clean
+.PHONY : CMakeFiles/exe_e2fbb952.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/exe_c3ebea90.dir
 
 # All Build rule for target.
 CMakeFiles/exe_c3ebea90.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c3ebea90.dir\build.make CMakeFiles/exe_c3ebea90.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c3ebea90.dir\build.make CMakeFiles/exe_c3ebea90.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=78,79 "Built target exe_c3ebea90"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=77 "Built target exe_c3ebea90"
 .PHONY : CMakeFiles/exe_c3ebea90.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_c3ebea90.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_c3ebea90.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_c3ebea90.dir/rule
@@ -1995,7 +2345,7 @@ exe_c3ebea90: CMakeFiles/exe_c3ebea90.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_c3ebea90.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_c3ebea90.dir\build.make CMakeFiles/exe_c3ebea90.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=78,79 "Finished codegen for target exe_c3ebea90"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=77 "Finished codegen for target exe_c3ebea90"
 .PHONY : CMakeFiles/exe_c3ebea90.dir/codegen
 
 # clean rule for target.
@@ -2010,7 +2360,7 @@ CMakeFiles/exe_c3ebea90.dir/clean:
 CMakeFiles/exe_a4294ed4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_a4294ed4.dir\build.make CMakeFiles/exe_a4294ed4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_a4294ed4.dir\build.make CMakeFiles/exe_a4294ed4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=66,67 "Built target exe_a4294ed4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=65,66 "Built target exe_a4294ed4"
 .PHONY : CMakeFiles/exe_a4294ed4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2027,7 +2377,7 @@ exe_a4294ed4: CMakeFiles/exe_a4294ed4.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_a4294ed4.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_a4294ed4.dir\build.make CMakeFiles/exe_a4294ed4.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=66,67 "Finished codegen for target exe_a4294ed4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=65,66 "Finished codegen for target exe_a4294ed4"
 .PHONY : CMakeFiles/exe_a4294ed4.dir/codegen
 
 # clean rule for target.
@@ -2042,7 +2392,7 @@ CMakeFiles/exe_a4294ed4.dir/clean:
 CMakeFiles/exe_2f2fde27.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2f2fde27.dir\build.make CMakeFiles/exe_2f2fde27.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2f2fde27.dir\build.make CMakeFiles/exe_2f2fde27.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=23 "Built target exe_2f2fde27"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=20 "Built target exe_2f2fde27"
 .PHONY : CMakeFiles/exe_2f2fde27.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2059,7 +2409,7 @@ exe_2f2fde27: CMakeFiles/exe_2f2fde27.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_2f2fde27.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2f2fde27.dir\build.make CMakeFiles/exe_2f2fde27.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=23 "Finished codegen for target exe_2f2fde27"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=20 "Finished codegen for target exe_2f2fde27"
 .PHONY : CMakeFiles/exe_2f2fde27.dir/codegen
 
 # clean rule for target.
@@ -2074,7 +2424,7 @@ CMakeFiles/exe_2f2fde27.dir/clean:
 CMakeFiles/exe_91e7807c.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_91e7807c.dir\build.make CMakeFiles/exe_91e7807c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_91e7807c.dir\build.make CMakeFiles/exe_91e7807c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=57,58 "Built target exe_91e7807c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=56,57 "Built target exe_91e7807c"
 .PHONY : CMakeFiles/exe_91e7807c.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2091,7 +2441,7 @@ exe_91e7807c: CMakeFiles/exe_91e7807c.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_91e7807c.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_91e7807c.dir\build.make CMakeFiles/exe_91e7807c.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=57,58 "Finished codegen for target exe_91e7807c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=56,57 "Finished codegen for target exe_91e7807c"
 .PHONY : CMakeFiles/exe_91e7807c.dir/codegen
 
 # clean rule for target.
@@ -2106,7 +2456,7 @@ CMakeFiles/exe_91e7807c.dir/clean:
 CMakeFiles/exe_2759e041.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2759e041.dir\build.make CMakeFiles/exe_2759e041.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2759e041.dir\build.make CMakeFiles/exe_2759e041.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=17 "Built target exe_2759e041"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=15 "Built target exe_2759e041"
 .PHONY : CMakeFiles/exe_2759e041.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2123,7 +2473,7 @@ exe_2759e041: CMakeFiles/exe_2759e041.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_2759e041.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_2759e041.dir\build.make CMakeFiles/exe_2759e041.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=17 "Finished codegen for target exe_2759e041"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=15 "Finished codegen for target exe_2759e041"
 .PHONY : CMakeFiles/exe_2759e041.dir/codegen
 
 # clean rule for target.
@@ -2138,7 +2488,7 @@ CMakeFiles/exe_2759e041.dir/clean:
 CMakeFiles/exe_5c379b5d.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_5c379b5d.dir\build.make CMakeFiles/exe_5c379b5d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_5c379b5d.dir\build.make CMakeFiles/exe_5c379b5d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=35 "Built target exe_5c379b5d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=33 "Built target exe_5c379b5d"
 .PHONY : CMakeFiles/exe_5c379b5d.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2155,7 +2505,7 @@ exe_5c379b5d: CMakeFiles/exe_5c379b5d.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_5c379b5d.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_5c379b5d.dir\build.make CMakeFiles/exe_5c379b5d.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=35 "Finished codegen for target exe_5c379b5d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=33 "Finished codegen for target exe_5c379b5d"
 .PHONY : CMakeFiles/exe_5c379b5d.dir/codegen
 
 # clean rule for target.
@@ -2170,12 +2520,12 @@ CMakeFiles/exe_5c379b5d.dir/clean:
 CMakeFiles/exe_9e028e11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_9e028e11.dir\build.make CMakeFiles/exe_9e028e11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_9e028e11.dir\build.make CMakeFiles/exe_9e028e11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=63,64 "Built target exe_9e028e11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=63 "Built target exe_9e028e11"
 .PHONY : CMakeFiles/exe_9e028e11.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_9e028e11.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_9e028e11.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_9e028e11.dir/rule
@@ -2187,7 +2537,7 @@ exe_9e028e11: CMakeFiles/exe_9e028e11.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_9e028e11.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_9e028e11.dir\build.make CMakeFiles/exe_9e028e11.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=63,64 "Finished codegen for target exe_9e028e11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=63 "Finished codegen for target exe_9e028e11"
 .PHONY : CMakeFiles/exe_9e028e11.dir/codegen
 
 # clean rule for target.
@@ -2202,7 +2552,7 @@ CMakeFiles/exe_9e028e11.dir/clean:
 CMakeFiles/exe_752d3138.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_752d3138.dir\build.make CMakeFiles/exe_752d3138.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_752d3138.dir\build.make CMakeFiles/exe_752d3138.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=50 "Built target exe_752d3138"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=49 "Built target exe_752d3138"
 .PHONY : CMakeFiles/exe_752d3138.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2219,7 +2569,7 @@ exe_752d3138: CMakeFiles/exe_752d3138.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_752d3138.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_752d3138.dir\build.make CMakeFiles/exe_752d3138.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=50 "Finished codegen for target exe_752d3138"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=49 "Finished codegen for target exe_752d3138"
 .PHONY : CMakeFiles/exe_752d3138.dir/codegen
 
 # clean rule for target.
@@ -2234,12 +2584,12 @@ CMakeFiles/exe_752d3138.dir/clean:
 CMakeFiles/exe_0cd42262.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0cd42262.dir\build.make CMakeFiles/exe_0cd42262.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0cd42262.dir\build.make CMakeFiles/exe_0cd42262.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=6,7 "Built target exe_0cd42262"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=6 "Built target exe_0cd42262"
 .PHONY : CMakeFiles/exe_0cd42262.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_0cd42262.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_0cd42262.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_0cd42262.dir/rule
@@ -2251,7 +2601,7 @@ exe_0cd42262: CMakeFiles/exe_0cd42262.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_0cd42262.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_0cd42262.dir\build.make CMakeFiles/exe_0cd42262.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=6,7 "Finished codegen for target exe_0cd42262"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=6 "Finished codegen for target exe_0cd42262"
 .PHONY : CMakeFiles/exe_0cd42262.dir/codegen
 
 # clean rule for target.
@@ -2266,7 +2616,7 @@ CMakeFiles/exe_0cd42262.dir/clean:
 CMakeFiles/exe_9f03d9fb.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_9f03d9fb.dir\build.make CMakeFiles/exe_9f03d9fb.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_9f03d9fb.dir\build.make CMakeFiles/exe_9f03d9fb.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=65 "Built target exe_9f03d9fb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=64 "Built target exe_9f03d9fb"
 .PHONY : CMakeFiles/exe_9f03d9fb.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2283,7 +2633,7 @@ exe_9f03d9fb: CMakeFiles/exe_9f03d9fb.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_9f03d9fb.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_9f03d9fb.dir\build.make CMakeFiles/exe_9f03d9fb.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=65 "Finished codegen for target exe_9f03d9fb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=64 "Finished codegen for target exe_9f03d9fb"
 .PHONY : CMakeFiles/exe_9f03d9fb.dir/codegen
 
 # clean rule for target.
@@ -2298,7 +2648,7 @@ CMakeFiles/exe_9f03d9fb.dir/clean:
 CMakeFiles/exe_19299d26.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_19299d26.dir\build.make CMakeFiles/exe_19299d26.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_19299d26.dir\build.make CMakeFiles/exe_19299d26.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=11 "Built target exe_19299d26"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=10 "Built target exe_19299d26"
 .PHONY : CMakeFiles/exe_19299d26.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2315,7 +2665,7 @@ exe_19299d26: CMakeFiles/exe_19299d26.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_19299d26.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_19299d26.dir\build.make CMakeFiles/exe_19299d26.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=11 "Finished codegen for target exe_19299d26"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=10 "Finished codegen for target exe_19299d26"
 .PHONY : CMakeFiles/exe_19299d26.dir/codegen
 
 # clean rule for target.
@@ -2330,7 +2680,7 @@ CMakeFiles/exe_19299d26.dir/clean:
 CMakeFiles/exe_e682b855.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e682b855.dir\build.make CMakeFiles/exe_e682b855.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e682b855.dir\build.make CMakeFiles/exe_e682b855.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=98 "Built target exe_e682b855"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=97 "Built target exe_e682b855"
 .PHONY : CMakeFiles/exe_e682b855.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2347,7 +2697,7 @@ exe_e682b855: CMakeFiles/exe_e682b855.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_e682b855.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_e682b855.dir\build.make CMakeFiles/exe_e682b855.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=98 "Finished codegen for target exe_e682b855"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=97 "Finished codegen for target exe_e682b855"
 .PHONY : CMakeFiles/exe_e682b855.dir/codegen
 
 # clean rule for target.
@@ -2362,12 +2712,12 @@ CMakeFiles/exe_e682b855.dir/clean:
 CMakeFiles/exe_4031fa36.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_4031fa36.dir\build.make CMakeFiles/exe_4031fa36.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_4031fa36.dir\build.make CMakeFiles/exe_4031fa36.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=30,31 "Built target exe_4031fa36"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=28 "Built target exe_4031fa36"
 .PHONY : CMakeFiles/exe_4031fa36.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exe_4031fa36.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exe_4031fa36.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\exerciseCode\build\CMakeFiles 0
 .PHONY : CMakeFiles/exe_4031fa36.dir/rule
@@ -2379,7 +2729,7 @@ exe_4031fa36: CMakeFiles/exe_4031fa36.dir/rule
 # codegen rule for target.
 CMakeFiles/exe_4031fa36.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exe_4031fa36.dir\build.make CMakeFiles/exe_4031fa36.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=30,31 "Finished codegen for target exe_4031fa36"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\exerciseCode\build\CMakeFiles --progress-num=28 "Finished codegen for target exe_4031fa36"
 .PHONY : CMakeFiles/exe_4031fa36.dir/codegen
 
 # clean rule for target.

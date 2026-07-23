@@ -289,9 +289,63 @@
 },
 {
   "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_7b296b75.dir\\LuoGuProblem\\P1089.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1089.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1089.cpp",
+  "output": "CMakeFiles/exe_7b296b75.dir/LuoGuProblem/P1089.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
   "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_b0bc409e.dir\\LuoGuProblem\\P1093.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1093.cpp",
   "file": "C:/exerciseCode/LuoGuProblem/P1093.cpp",
   "output": "CMakeFiles/exe_b0bc409e.dir/LuoGuProblem/P1093.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_54712fca.dir\\LuoGuProblem\\P1150.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1150.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1150.cpp",
+  "output": "CMakeFiles/exe_54712fca.dir/LuoGuProblem/P1150.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_c816cce7.dir\\LuoGuProblem\\P1151.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1151.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1151.cpp",
+  "output": "CMakeFiles/exe_c816cce7.dir/LuoGuProblem/P1151.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_666b74e5.dir\\LuoGuProblem\\P1152.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1152.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1152.cpp",
+  "output": "CMakeFiles/exe_666b74e5.dir/LuoGuProblem/P1152.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_fe269985.dir\\LuoGuProblem\\P1161.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1161.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1161.cpp",
+  "output": "CMakeFiles/exe_fe269985.dir/LuoGuProblem/P1161.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_638bc430.dir\\LuoGuProblem\\P1179.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1179.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1179.cpp",
+  "output": "CMakeFiles/exe_638bc430.dir/LuoGuProblem/P1179.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_b18f4bc2.dir\\LuoGuProblem\\P1200.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1200.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1200.cpp",
+  "output": "CMakeFiles/exe_b18f4bc2.dir/LuoGuProblem/P1200.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_950b989f.dir\\LuoGuProblem\\P1304.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1304.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1304.cpp",
+  "output": "CMakeFiles/exe_950b989f.dir/LuoGuProblem/P1304.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_3d1ab674.dir\\LuoGuProblem\\P1307.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1307.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1307.cpp",
+  "output": "CMakeFiles/exe_3d1ab674.dir/LuoGuProblem/P1307.cpp.obj"
 },
 {
   "directory": "C:/exerciseCode/build",
@@ -316,6 +370,12 @@
   "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_29e927f4.dir\\LuoGuProblem\\P1802.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1802.cpp",
   "file": "C:/exerciseCode/LuoGuProblem/P1802.cpp",
   "output": "CMakeFiles/exe_29e927f4.dir/LuoGuProblem/P1802.cpp.obj"
+},
+{
+  "directory": "C:/exerciseCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++17 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\exe_e2fbb952.dir\\LuoGuProblem\\P1961.cpp.obj -c C:\\exerciseCode\\LuoGuProblem\\P1961.cpp",
+  "file": "C:/exerciseCode/LuoGuProblem/P1961.cpp",
+  "output": "CMakeFiles/exe_e2fbb952.dir/LuoGuProblem/P1961.cpp.obj"
 },
 {
   "directory": "C:/exerciseCode/build",
