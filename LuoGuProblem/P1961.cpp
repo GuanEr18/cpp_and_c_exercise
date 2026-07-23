@@ -2,55 +2,69 @@
 #include <vector>
 #include <numeric>
 using namespace std;
-int N;
+
+struct balance
+{
+    int L;
+    int R;
+    int left;
+    int right;
+    // right and left在'0'时候表示挂砝码
+};
+// u是第'u'位的天平平衡时要的最小重量
+long long DFS(int u,const vector<balance>& tree) 
+{
+    if (u==0)
+    {
+        return 1;
+        // 这个是特殊情况
+    }
+    long long weightLeft=DFS(tree[u].left,tree);
+    long long weightRight=DFS(tree[u].right,tree);
+    // 
+    long long baseLeft=weightLeft*tree[u].L;
+    long long baseRight=weightRight*tree[u].R;
+    // 两边力矩的最小公倍数
+    long long liJv=lcm(baseLeft,baseRight);
+    long long actualWeight=liJv/tree[u].L+liJv/tree[u].R;
+    return actualWeight;
+    // 返回这个天平平衡时的最小重量='u'
+}
+
 int main ()
 {
-    int sumWeight=0;
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    int N,sumWeight=0;
     while(cin>>N)
     {
-        vector<int> L(N);
-        vector<int> R(N);
-        vector<int> left(N);
-        vector<int> right(N);
-        vector<int> buttonWeight();
-        for(int i=0;i<N;i++)
+        vector<balance> tree(N+1);
+        // 每个天平被挂了几个节点
+        vector<int> degree(N+1,0);
+        for(int i=1;i<=N;i++)
         {
-            cin>>L[i]>>R[i]>>left[i]>>right[i];
-        }
-        int weight[N];
-        for(int i=0;i<N;i++)
-        {
-            if(left[i]==0 && right[i]==0)
+            cin>>tree[i].L>>tree[i].R>>tree[i].left>>tree[i].right;
+            if(tree[i].left!=0)
             {
-                weight[i]=lcm(R[i],L[i])/R[i]+lcm(R[i],L[i])/L[i];
-                /**
-                 * 最小公倍数计算std::lcm(a,b)
-                 * 最大公约数计算std::gcd(a,b)
-                 */
-                buttonWeight().push_back(weight[i]);
+                degree[tree[i].left]++;
             }
-            // 得出最下层天平最终重量 
-        }
-        // 单边没有重物的天平
-        for(int i=0;i<N;i++)
-        {
-            if((right[i]!=0 && left[i]==0) || (right[i]==0 && left[i]!=0))
+            if(tree[i].right!=0)
             {
-                weight[i]=max(R[i],L[i])+min(R[i],L[i])*weight[i-1];
-                /**
-                 * 下层的wieght编号还没有确定，所以不能用weight[i-1]
-                 * 要改
-                 */
-                sumWeight+=lcm(R[i],L[i])/min(R[i],L[i])*weight[i-1];
+                degree[tree[i].right]++;
             }
         }
-        // 两边都没有重物的天平
-        for(int i=0;i<N;i++)
+        // 找到根节点
+        int root;
+        for(int i=1;i<=N;i++)
         {
-            if(weight[i]==0)
+            if(degree[i]==0)
             {
-
+                root=i;
+                break;
             }
         }
+        long long sumWeight=DFS(root,tree);
+        cout<<sumWeight<<endl;
     }
+    return 0;
 }
