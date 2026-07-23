@@ -1,12 +1,63 @@
-cmake-build-debug/
-*.exe
-# 忽略 CMake 自动生成的构建目录
+# ==========================================
+# 1. CLion 构建目录
+# ==========================================
+# 忽略所有以 cmake-build- 开头的目录（如 cmake-build-debug, cmake-build-release 等）
 cmake-build-*/
-build/
 
-# 忽略常见的编译产物
+# 忽略常见的自定义构建目录
+build/
+out/
+
+# ==========================================
+# 2. C++ 编译产物与临时文件
+# ==========================================
+# 目标文件
 *.o
 *.obj
+*.lo
+
+# 可执行文件
 *.exe
 *.out
-*.class
+*.app
+
+# 库文件
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# CMake 临时文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ==========================================
+# 3. IDE 与编辑器配置
+# ==========================================
+# CLion 配置（推荐保留，但忽略个人工作区设置）
+.idea/
+!.idea/.gitignore
+!.idea/*.xml  # 保留代码风格、运行配置等团队共享文件
+!.idea/*.iml
+
+# Visual Studio Code (如果你偶尔也用 VSCode)
+.vscode/
+
+# ==========================================
+# 4. 操作系统生成的临时文件
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
