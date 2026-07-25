@@ -1,8 +1,8 @@
 ﻿cmake_minimum_required(VERSION 3.14) # 推荐使用 3.14 以上以完美支持 CONFIGURE_DEPENDS
 project(CodingExercises C CXX)
 
-# 设置 C++17 标准
-set(CMAKE_CXX_STANDARD 17)
+# 设置 C++20 标准
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # ==================== 【新增：解决中文乱码问题】 ====================
